@@ -1,9 +1,0 @@
-{
-  "python": "3.12.14",
-  "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
-  "pandas": "2.2.3",
-  "numpy": "2.3.5",
-  "Pillow": "13.0.0",
-  "matplotlib": "3.10.8",
-  "ipywidgets": "not installed"
-}
