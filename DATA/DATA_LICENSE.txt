@@ -3,4 +3,7 @@ https://deepvisualmarketing.github.io/
 CC BY-NC 4.0:
 https://creativecommons.org/licenses/by-nc/4.0/
 Changes: filtering, sampling, duplicate exclusion, file renaming.
-Images still require visual review and full decode checks.
+Processing status: The original candidate archive required visual review
+and full image-decode checks. The cleaned dataset was exported after
+applying the recorded human review decisions and passing image-decode,
+dimension, hash, and duplicate checks in the cleaning notebook.
