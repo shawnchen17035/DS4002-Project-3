@@ -1,0 +1,14 @@
+{
+  "seed": 4002,
+  "candidate_allocations": 5000,
+  "target_proportions": {
+    "train": 0.7,
+    "validation": 0.15,
+    "test": 0.15
+  },
+  "grouping_variable": "Genmodel_ID",
+  "selection_rule": "Fixed model counts within primary body types; minimize squared deviation from class-level listing targets",
+  "model_performance_used": false,
+  "numpy_version": "2.4.6",
+  "pandas_version": "2.2.3"
+}

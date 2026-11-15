@@ -1,0 +1,6 @@
+DVM-CAR: J. Huang, B. Chen, L. Luo, S. Yue, I. Ounis.
+https://deepvisualmarketing.github.io/
+CC BY-NC 4.0:
+https://creativecommons.org/licenses/by-nc/4.0/
+Changes: filtering, sampling, duplicate exclusion, file renaming.
+Images still require visual review and full decode checks.

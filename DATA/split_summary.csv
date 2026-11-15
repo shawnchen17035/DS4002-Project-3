@@ -1,0 +1,10 @@
+Split,Body_type,Listings,Photos,Models
+train,Sedan,275,825,75
+train,SUV,256,768,88
+train,Pickup,64,192,6
+validation,Sedan,63,189,16
+validation,SUV,58,174,19
+validation,Pickup,10,30,2
+test,Sedan,57,171,16
+test,SUV,57,171,19
+test,Pickup,20,60,1

@@ -1,0 +1,1501 @@
+Review_ID,Body_type,Maker,Genmodel,Genmodel_ID,Adv_ID,Review_decision,Flagged_views,Review_notes,Full_size_rechecked,User_approval
+1,Sedan,Alfa Romeo,159,4_4,4_4$$14,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+2,Sedan,Alfa Romeo,159,4_4,4_4$$19,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+3,Sedan,Alfa Romeo,159,4_4,4_4$$34,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+4,Sedan,Alfa Romeo,159,4_4,4_4$$37,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+5,Sedan,Alfa Romeo,159,4_4,4_4$$48,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+6,Sedan,Alfa Romeo,Giulia,4_10,4_10$$113,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+7,Sedan,Alfa Romeo,Giulia,4_10,4_10$$116,reject,Rear,open_trunk,False,pending
+8,Sedan,Alfa Romeo,Giulia,4_10,4_10$$33,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+9,Sedan,Alfa Romeo,Giulia,4_10,4_10$$51,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+10,Sedan,Alfa Romeo,Giulia,4_10,4_10$$77,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+11,Sedan,Alfa Romeo,Giulia,4_10,4_10$$79,uncertain,Side,oblique_side_view,False,pending
+12,Sedan,Aston Martin,Rapide,6_6,6_6$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+13,Sedan,Aston Martin,Rapide,6_6,6_6$$3,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+14,Sedan,Audi,A3,7_3,7_3$$1252,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+15,Sedan,Audi,A3,7_3,7_3$$1314,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+16,Sedan,Audi,A3,7_3,7_3$$1411,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+17,Sedan,Audi,A3,7_3,7_3$$1662,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+18,Sedan,Audi,A3,7_3,7_3$$699,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+19,Sedan,Audi,A4,7_5,7_5$$185,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+20,Sedan,Audi,A4,7_5,7_5$$402,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+21,Sedan,Audi,A4,7_5,7_5$$431,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+22,Sedan,Audi,A4,7_5,7_5$$641,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+23,Sedan,Audi,A4,7_5,7_5$$837,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+24,Sedan,Audi,A4,7_5,7_5$$840,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+25,Sedan,Audi,A6 Saloon,7_11,7_11$$1900,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+26,Sedan,Audi,A6 Saloon,7_11,7_11$$2041,reject,Rear,open_trunk,False,pending
+27,Sedan,Audi,A6 Saloon,7_11,7_11$$2258,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+28,Sedan,Audi,A6 Saloon,7_11,7_11$$2309,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+29,Sedan,Audi,A6 Saloon,7_11,7_11$$2581,reject,Side,trunk_interior_instead_of_exterior_side,False,pending
+30,Sedan,Audi,A6 Saloon,7_11,7_11$$2668,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+31,Sedan,Audi,A8,7_16,7_16$$108,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+32,Sedan,Audi,A8,7_16,7_16$$190,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+33,Sedan,Audi,A8,7_16,7_16$$223,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+34,Sedan,Audi,A8,7_16,7_16$$322,uncertain,Side,oblique_side_view,False,pending
+35,Sedan,Audi,A8,7_16,7_16$$369,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+36,Sedan,Audi,A8,7_16,7_16$$392,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+37,Sedan,Audi,RS3,7_25,7_25$$130,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+38,Sedan,Audi,RS3,7_25,7_25$$207,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+39,Sedan,Audi,RS3,7_25,7_25$$215,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+40,Sedan,Audi,RS3,7_25,7_25$$3,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+41,Sedan,Audi,RS3,7_25,7_25$$69,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+42,Sedan,Audi,RS3,7_25,7_25$$85,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+43,Sedan,Audi,RS4,7_26,7_26$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+44,Sedan,Audi,RS4,7_26,7_26$$3,uncertain,Side,rear_three_quarter_view,False,pending
+45,Sedan,Audi,RS4,7_26,7_26$$4,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+46,Sedan,Audi,RS4 Saloon,7_29,7_29$$11,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+47,Sedan,Audi,RS4 Saloon,7_29,7_29$$14,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+48,Sedan,Audi,RS4 Saloon,7_29,7_29$$20,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+49,Sedan,Audi,RS4 Saloon,7_29,7_29$$32,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+50,Sedan,Audi,RS4 Saloon,7_29,7_29$$44,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+51,Sedan,Audi,RS6,7_31,7_31$$12,provisional_keep,,No obvious issue observed in contact-sheet screening,True,pending
+52,Sedan,Audi,RS6,7_31,7_31$$3,provisional_keep,,No obvious issue observed in contact-sheet screening,True,pending
+53,Sedan,Audi,RS6,7_31,7_31$$4,provisional_keep,,No obvious issue observed in contact-sheet screening,True,pending
+54,Sedan,Audi,RS6,7_31,7_31$$6,provisional_keep,,No obvious issue observed in contact-sheet screening,True,pending
+55,Sedan,Audi,RS6,7_31,7_31$$7,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+56,Sedan,Audi,RS6,7_31,7_31$$8,provisional_keep,,No obvious issue observed in contact-sheet screening,True,pending
+57,Sedan,Audi,S3,7_35,7_35$$13,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+58,Sedan,Audi,S3,7_35,7_35$$187,reject,Rear,open_trunk,False,pending
+59,Sedan,Audi,S3,7_35,7_35$$22,reject,Rear,open_trunk,False,pending
+60,Sedan,Audi,S3,7_35,7_35$$302,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+61,Sedan,Audi,S3,7_35,7_35$$67,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+62,Sedan,Audi,S4,7_36,7_36$$141,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+63,Sedan,Audi,S4,7_36,7_36$$154,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+64,Sedan,Audi,S4,7_36,7_36$$36,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+65,Sedan,Audi,S4,7_36,7_36$$5,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+66,Sedan,Audi,S4,7_36,7_36$$59,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+67,Sedan,Audi,S4,7_36,7_36$$70,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+68,Sedan,Audi,S8,7_43,7_43$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+69,Sedan,Audi,S8,7_43,7_43$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+70,Sedan,Audi,S8,7_43,7_43$$4,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+71,Sedan,Audi,S8,7_43,7_43$$5,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+72,Sedan,Audi,S8,7_43,7_43$$6,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+73,Sedan,BMW,3 Series,8_5,8_5$$210,uncertain,Side,front_three_quarter_view,False,pending
+74,Sedan,BMW,3 Series,8_5,8_5$$219,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+75,Sedan,BMW,3 Series,8_5,8_5$$532,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+76,Sedan,BMW,3 Series,8_5,8_5$$650,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+77,Sedan,BMW,3 Series,8_5,8_5$$683,uncertain,Side,front_three_quarter_view,False,pending
+78,Sedan,BMW,5 Series,8_9,8_9$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+79,Sedan,BMW,5 Series,8_9,8_9$$188,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+80,Sedan,BMW,5 Series,8_9,8_9$$604,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+81,Sedan,BMW,5 Series,8_9,8_9$$625,uncertain,Rear,oblique_rear_view,False,pending
+82,Sedan,BMW,5 Series,8_9,8_9$$724,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+83,Sedan,BMW,5 Series,8_9,8_9$$86,reject,Rear,cropped_rear_corner_closeup,False,pending
+84,Sedan,BMW,7 Series,8_14,8_14$$146,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+85,Sedan,BMW,7 Series,8_14,8_14$$149,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+86,Sedan,BMW,7 Series,8_14,8_14$$201,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+87,Sedan,BMW,7 Series,8_14,8_14$$228,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+88,Sedan,BMW,7 Series,8_14,8_14$$30,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+89,Sedan,BMW,7 Series,8_14,8_14$$736,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+90,Sedan,BMW,Alpina D3,8_20,8_20$$5,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+91,Sedan,BMW,Alpina D3 Bi-Turbo,8_21,8_21$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+92,Sedan,BMW,Alpina D3 Bi-Turbo,8_21,8_21$$14,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+93,Sedan,BMW,Alpina D3 Bi-Turbo,8_21,8_21$$2,uncertain,Side,front_three_quarter_view,False,pending
+94,Sedan,BMW,Alpina D3 Bi-Turbo,8_21,8_21$$3,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+95,Sedan,BMW,Alpina D3 Bi-Turbo,8_21,8_21$$4,provisional_keep,,No obvious issue observed in contact-sheet screening,True,pending
+96,Sedan,BMW,Alpina D3 Bi-Turbo,8_21,8_21$$9,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+97,Sedan,BMW,Alpina D5 Bi-Turbo,8_23,8_23$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+98,Sedan,BMW,Alpina Unspecified Models,8_25,8_25$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+99,Sedan,BMW,M3,8_30,8_30$$156,uncertain,Rear,high_oblique_rear_view,False,pending
+100,Sedan,BMW,M3,8_30,8_30$$183,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+101,Sedan,BMW,M3,8_30,8_30$$261,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+102,Sedan,BMW,M3,8_30,8_30$$302,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+103,Sedan,BMW,M3,8_30,8_30$$355,provisional_keep,,No obvious issue observed in contact-sheet screening,True,pending
+104,Sedan,BMW,M3,8_30,8_30$$52,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+105,Sedan,BMW,M5,8_32,8_32$$20,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+106,Sedan,BMW,M5,8_32,8_32$$36,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+107,Sedan,BMW,M5,8_32,8_32$$6,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+108,Sedan,BMW,M5,8_32,8_32$$61,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+109,Sedan,BMW,M5,8_32,8_32$$74,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+110,Sedan,BMW,M5,8_32,8_32$$9,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+111,Sedan,Bentley,Arnage,10_1,10_1$$14,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+112,Sedan,Bentley,Arnage,10_1,10_1$$28,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+113,Sedan,Bentley,Arnage,10_1,10_1$$29,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+114,Sedan,Bentley,Arnage,10_1,10_1$$6,reject,Front; Side,half_vehicle_crop; front_three_quarter_view,False,pending
+115,Sedan,Bentley,Arnage,10_1,10_1$$8,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+116,Sedan,Bentley,Brooklands,10_4,10_4$$6,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+117,Sedan,Bentley,Continental,10_5,10_5$$157,provisional_keep,,No obvious issue observed in contact-sheet screening,True,pending
+118,Sedan,Bentley,Continental,10_5,10_5$$194,uncertain,"Front,Side",oblique_front_and_side_views_full_size_recheck,True,pending
+119,Sedan,Bentley,Continental,10_5,10_5$$361,provisional_keep,,No obvious issue observed in contact-sheet screening,True,pending
+120,Sedan,Bentley,Continental,10_5,10_5$$436,provisional_keep,,No obvious issue observed in contact-sheet screening,True,pending
+121,Sedan,Bentley,Continental,10_5,10_5$$559,uncertain,Side,front_three_quarter_view_full_size_recheck,True,pending
+122,Sedan,Bentley,Continental,10_5,10_5$$572,provisional_keep,,No obvious issue observed in contact-sheet screening,True,pending
+123,Sedan,Bentley,Flying Spur,10_6,10_6$$15,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+124,Sedan,Bentley,Flying Spur,10_6,10_6$$24,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+125,Sedan,Bentley,Flying Spur,10_6,10_6$$41,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+126,Sedan,Bentley,Flying Spur,10_6,10_6$$47,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+127,Sedan,Bentley,Flying Spur,10_6,10_6$$53,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+128,Sedan,Bentley,Flying Spur,10_6,10_6$$55,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+129,Sedan,Bentley,Mulsanne,10_7,10_7$$10,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+130,Sedan,Bentley,Mulsanne,10_7,10_7$$18,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+131,Sedan,Bentley,Mulsanne,10_7,10_7$$22,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+132,Sedan,Bentley,Mulsanne,10_7,10_7$$38,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+133,Sedan,Bentley,Mulsanne,10_7,10_7$$5,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+134,Sedan,Cadillac,CTS,14_2,14_2$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+135,Sedan,Cadillac,CTS,14_2,14_2$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+136,Sedan,Cadillac,STS,14_5,14_5$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+137,Sedan,Chevrolet,Cruze,16_7,16_7$$12,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+138,Sedan,Chevrolet,Cruze,16_7,16_7$$17,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+139,Sedan,Chrysler,300C,17_1,17_1$$3,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+140,Sedan,Chrysler,300C,17_1,17_1$$44,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+141,Sedan,Chrysler,300C,17_1,17_1$$45,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+142,Sedan,Chrysler,300C,17_1,17_1$$70,reject,Front,overhead_roof_view_instead_of_front,False,pending
+143,Sedan,Chrysler,300C,17_1,17_1$$9,uncertain,Side,front_three_quarter_view,False,pending
+144,Sedan,Chrysler,Sebring,17_8,17_8$$10,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+145,Sedan,Chrysler,Sebring,17_8,17_8$$3,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+146,Sedan,Chrysler,Sebring,17_8,17_8$$8,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+147,Sedan,Chrysler,Sebring,17_8,17_8$$9,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+148,Sedan,Citroen,C5,18_15,18_15$$143,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+149,Sedan,Citroen,C5,18_15,18_15$$218,uncertain,Rear,rear_three_quarter_view,False,pending
+150,Sedan,Citroen,C5,18_15,18_15$$234,uncertain,Side,front_three_quarter_view,False,pending
+151,Sedan,Citroen,C5,18_15,18_15$$260,reject,Rear,cropped_rear_corner_closeup,False,pending
+152,Sedan,Citroen,C5,18_15,18_15$$267,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+153,Sedan,Citroen,C6,18_16,18_16$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+154,Sedan,Citroen,C6,18_16,18_16$$3,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+155,Sedan,Citroen,C6,18_16,18_16$$8,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+156,Sedan,Citroen,C6,18_16,18_16$$9,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+157,Sedan,Daewoo,Nubira,23_4,23_4$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+158,Sedan,Dodge,Avenger,26_1,26_1$$4,uncertain,Rear,rear_three_quarter_view,False,pending
+159,Sedan,Dodge,Avenger,26_1,26_1$$5,uncertain,Side,front_three_quarter_view,False,pending
+160,Sedan,Ford,Focus,29_14,29_14$$1907,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+161,Sedan,Ford,Focus,29_14,29_14$$2960,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+162,Sedan,Ford,Focus,29_14,29_14$$357,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+163,Sedan,Ford,Focus,29_14,29_14$$4060,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+164,Sedan,Ford,Focus,29_14,29_14$$4146,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+165,Sedan,Ford,Focus,29_14,29_14$$981,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+166,Sedan,Ford,Mondeo,29_27,29_27$$1304,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+167,Sedan,Ford,Mondeo,29_27,29_27$$1316,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+168,Sedan,Ford,Mondeo,29_27,29_27$$1893,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+169,Sedan,Ford,Mondeo,29_27,29_27$$1903,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+170,Sedan,Ford,Mondeo,29_27,29_27$$2408,provisional_keep,,No obvious issue observed in contact-sheet screening,True,pending
+171,Sedan,Ford,Mondeo,29_27,29_27$$2412,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+172,Sedan,Honda,Accord,34_1,34_1$$111,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+173,Sedan,Honda,Accord,34_1,34_1$$145,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+174,Sedan,Honda,Accord,34_1,34_1$$182,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+175,Sedan,Honda,Accord,34_1,34_1$$186,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+176,Sedan,Honda,Accord,34_1,34_1$$44,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+177,Sedan,Honda,Accord,34_1,34_1$$66,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+178,Sedan,Honda,Civic,34_2,34_2$$192,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+179,Sedan,Honda,Civic,34_2,34_2$$221,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+180,Sedan,Honda,Civic,34_2,34_2$$412,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+181,Sedan,Honda,Civic,34_2,34_2$$5,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+182,Sedan,Honda,Civic,34_2,34_2$$611,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+183,Sedan,Hyundai,Genesis,36_5,36_5$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+184,Sedan,Hyundai,Grandeur,36_7,36_7$$1,uncertain,Side,front_three_quarter_view,False,pending
+185,Sedan,Hyundai,i40,36_12,36_12$$167,provisional_keep,,No obvious issue observed in contact-sheet screening,True,pending
+186,Sedan,Hyundai,i40,36_12,36_12$$177,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+187,Sedan,Hyundai,i40,36_12,36_12$$247,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+188,Sedan,Hyundai,i40,36_12,36_12$$290,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+189,Sedan,Hyundai,i40,36_12,36_12$$299,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+190,Sedan,Hyundai,i40,36_12,36_12$$55,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+191,Sedan,Infiniti,G,37_3,37_3$$4,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+192,Sedan,Infiniti,Q50,37_6,37_6$$105,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+193,Sedan,Infiniti,Q50,37_6,37_6$$128,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+194,Sedan,Infiniti,Q50,37_6,37_6$$14,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+195,Sedan,Infiniti,Q50,37_6,37_6$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+196,Sedan,Infiniti,Q50,37_6,37_6$$46,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+197,Sedan,Infiniti,Q50,37_6,37_6$$58,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+198,Sedan,Infiniti,Q70,37_8,37_8$$14,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+199,Sedan,Infiniti,Q70,37_8,37_8$$24,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+200,Sedan,Infiniti,Q70,37_8,37_8$$27,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+201,Sedan,Infiniti,Q70,37_8,37_8$$32,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+202,Sedan,Infiniti,Q70,37_8,37_8$$33,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+203,Sedan,Infiniti,Q70,37_8,37_8$$9,reject,"Side,Rear",rear_view_in_side_slot_and_wheel_closeup_in_rear_slot,False,pending
+204,Sedan,Jaguar,S-Type,39_4,39_4$$278,uncertain,Side,front_three_quarter_view,False,pending
+205,Sedan,Jaguar,S-Type,39_4,39_4$$312,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+206,Sedan,Jaguar,S-Type,39_4,39_4$$346,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+207,Sedan,Jaguar,S-Type,39_4,39_4$$352,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+208,Sedan,Jaguar,S-Type,39_4,39_4$$454,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+209,Sedan,Jaguar,X-Type,39_5,39_5$$107,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+210,Sedan,Jaguar,X-Type,39_5,39_5$$202,reject,Rear,rear_corner_closeup_and_crop,False,pending
+211,Sedan,Jaguar,X-Type,39_5,39_5$$788,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+212,Sedan,Jaguar,X-Type,39_5,39_5$$84,uncertain,Side,front_three_quarter_view,False,pending
+213,Sedan,Jaguar,X-Type,39_5,39_5$$913,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+214,Sedan,Jaguar,X-Type,39_5,39_5$$928,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+215,Sedan,Jaguar,XE,39_6,39_6$$100,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+216,Sedan,Jaguar,XE,39_6,39_6$$1106,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+217,Sedan,Jaguar,XE,39_6,39_6$$411,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+218,Sedan,Jaguar,XE,39_6,39_6$$718,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+219,Sedan,Jaguar,XE,39_6,39_6$$90,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+220,Sedan,Jaguar,XE,39_6,39_6$$925,uncertain,Rear,rear_three_quarter_view,False,pending
+221,Sedan,Jaguar,XF,39_7,39_7$$1101,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+222,Sedan,Jaguar,XF,39_7,39_7$$1428,reject,all,estate_body_in_sedan_class_confirmed_full_size,True,pending
+223,Sedan,Jaguar,XF,39_7,39_7$$1500,provisional_keep,,No obvious issue observed in contact-sheet screening,True,pending
+224,Sedan,Jaguar,XF,39_7,39_7$$1724,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+225,Sedan,Jaguar,XF,39_7,39_7$$990,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+226,Sedan,Jaguar,XJ,39_8,39_8$$129,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+227,Sedan,Jaguar,XJ,39_8,39_8$$215,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+228,Sedan,Jaguar,XJ,39_8,39_8$$514,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+229,Sedan,Jaguar,XJ,39_8,39_8$$663,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+230,Sedan,Jaguar,XJ,39_8,39_8$$751,uncertain,Side,rear_three_quarter_view,False,pending
+231,Sedan,Kia,Cerato,43_3,43_3$$5,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+232,Sedan,Kia,Magentis,43_4,43_4$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+233,Sedan,Kia,Optima,43_6,43_6$$127,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+234,Sedan,Kia,Optima,43_6,43_6$$177,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+235,Sedan,Kia,Optima,43_6,43_6$$246,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+236,Sedan,Kia,Optima,43_6,43_6$$346,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+237,Sedan,Kia,Optima,43_6,43_6$$413,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+238,Sedan,Kia,Optima,43_6,43_6$$77,uncertain,Side,front_three_quarter_view,False,pending
+239,Sedan,Kia,Rio,43_9,43_9$$929,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+240,Sedan,Kia,Stinger,43_14,43_14$$13,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+241,Sedan,Kia,Stinger,43_14,43_14$$19,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+242,Sedan,Kia,Stinger,43_14,43_14$$20,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+243,Sedan,Lexus,GS 250,48_2,48_2$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+244,Sedan,Lexus,GS 300,48_2,48_2$$24,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+245,Sedan,Lexus,GS 300,48_2,48_2$$74,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+246,Sedan,Lexus,GS 300,48_2,48_2$$88,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+247,Sedan,Lexus,GS 300,48_2,48_2$$95,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+248,Sedan,Lexus,IS 220d,48_8,48_8$$470,reject,"Front,Side",interior_front_slot_and_front_photo_in_side_slot,False,pending
+249,Sedan,Lexus,IS 250,48_8,48_8$$142,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+250,Sedan,Lexus,IS 250,48_8,48_8$$47,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+251,Sedan,Lexus,IS 300,48_8,48_8$$1049,reject,Front,rear_view_instead_of_front,False,pending
+252,Sedan,Lexus,IS 300,48_8,48_8$$691,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+253,Sedan,Lexus,IS 300,48_8,48_8$$911,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+254,Sedan,Lexus,LS 430,48_15,48_15$$25,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+255,Sedan,Lexus,LS 430,48_15,48_15$$26,uncertain,Rear,rear_three_quarter_view,False,pending
+256,Sedan,Lexus,LS 430,48_15,48_15$$28,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+257,Sedan,Lexus,LS 460,48_15,48_15$$10,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+258,Sedan,Lexus,LS 460,48_15,48_15$$16,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+259,Sedan,Lexus,LS 600h,48_15,48_15$$45,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+260,Sedan,MG,MG6,53_3,53_3$$3,reject,Rear,cropped_oblique_rear_view,False,pending
+261,Sedan,MG,ZS,53_7,53_7$$30,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+262,Sedan,MG,ZS,53_7,53_7$$60,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+263,Sedan,MG,ZT,53_8,53_8$$11,uncertain,Rear,rear_three_quarter_view,False,pending
+264,Sedan,MG,ZT,53_8,53_8$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+265,Sedan,MG,ZT,53_8,53_8$$3,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+266,Sedan,MG,ZT,53_8,53_8$$6,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+267,Sedan,MG,ZT,53_8,53_8$$7,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+268,Sedan,MG,ZT,53_8,53_8$$8,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+269,Sedan,Maserati,Ghibli,55_5,55_5$$125,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+270,Sedan,Maserati,Ghibli,55_5,55_5$$135,uncertain,Side,rear_three_quarter_view,False,pending
+271,Sedan,Maserati,Ghibli,55_5,55_5$$37,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+272,Sedan,Maserati,Ghibli,55_5,55_5$$4,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+273,Sedan,Maserati,Ghibli,55_5,55_5$$41,uncertain,"Front,Rear",high_front_and_oblique_rear_views,False,pending
+274,Sedan,Maserati,Ghibli,55_5,55_5$$46,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+275,Sedan,Maserati,Quattroporte,55_10,55_10$$24,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+276,Sedan,Maserati,Quattroporte,55_10,55_10$$29,reject,Front,cropped_front_closeup,False,pending
+277,Sedan,Maserati,Quattroporte,55_10,55_10$$33,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+278,Sedan,Maserati,Quattroporte,55_10,55_10$$47,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+279,Sedan,Maserati,Quattroporte,55_10,55_10$$52,reject,all,wheel_closeup_and_wrong_exterior_views,False,pending
+280,Sedan,Maserati,Quattroporte,55_10,55_10$$8,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+281,Sedan,Mazda,Mazda3,57_11,57_11$$1006,reject,Side,pickup_vehicle_in_sedan_listing,False,pending
+282,Sedan,Mazda,Mazda3,57_11,57_11$$1223,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+283,Sedan,Mazda,Mazda3,57_11,57_11$$1504,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+284,Sedan,Mazda,Mazda3,57_11,57_11$$1696,uncertain,Front,high_overhead_front_view,False,pending
+285,Sedan,Mazda,Mazda3,57_11,57_11$$915,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+286,Sedan,Mazda,Mazda6,57_13,57_13$$1228,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+287,Sedan,Mazda,Mazda6,57_13,57_13$$166,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+288,Sedan,Mazda,Mazda6,57_13,57_13$$701,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+289,Sedan,Mazda,Mazda6,57_13,57_13$$728,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+290,Sedan,Mazda,Mazda6,57_13,57_13$$762,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+291,Sedan,Mazda,Mazda6,57_13,57_13$$855,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+292,Sedan,Mercedes-Benz,220,59_2,59_2$$1,uncertain,Side,front_three_quarter_view,False,pending
+293,Sedan,Mercedes-Benz,220,59_2,59_2$$2,uncertain,Front,tilted_oblique_front_view,False,pending
+294,Sedan,Mercedes-Benz,C Class,59_12,59_12$$341,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+295,Sedan,Mercedes-Benz,C Class,59_12,59_12$$4,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+296,Sedan,Mercedes-Benz,C Class,59_12,59_12$$474,reject,Front; Side,cropped_front_corner; front_three_quarter_view,False,pending
+297,Sedan,Mercedes-Benz,C Class,59_12,59_12$$572,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+298,Sedan,Mercedes-Benz,C Class,59_12,59_12$$870,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+299,Sedan,Mercedes-Benz,C Class,59_12,59_12$$929,uncertain,Side,front_three_quarter_view,False,pending
+300,Sedan,Mercedes-Benz,CLS,59_19,59_19$$121,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+301,Sedan,Mercedes-Benz,CLS,59_19,59_19$$149,reject,Rear,interior_door_panel_instead_of_rear,False,pending
+302,Sedan,Mercedes-Benz,CLS,59_19,59_19$$229,reject,Rear,open_trunk,False,pending
+303,Sedan,Mercedes-Benz,CLS,59_19,59_19$$238,reject,Front,open_trunk_instead_of_front,False,pending
+304,Sedan,Mercedes-Benz,CLS,59_19,59_19$$273,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+305,Sedan,Mercedes-Benz,CLS,59_19,59_19$$59,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+306,Sedan,Mercedes-Benz,E Class,59_20,59_20$$136,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+307,Sedan,Mercedes-Benz,E Class,59_20,59_20$$232,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+308,Sedan,Mercedes-Benz,E Class,59_20,59_20$$259,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+309,Sedan,Mercedes-Benz,E Class,59_20,59_20$$453,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+310,Sedan,Mercedes-Benz,E Class,59_20,59_20$$671,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+311,Sedan,Mercedes-Benz,E Class,59_20,59_20$$676,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+312,Sedan,Mercedes-Benz,S Class,59_29,59_29$$211,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+313,Sedan,Mercedes-Benz,S Class,59_29,59_29$$236,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+314,Sedan,Mercedes-Benz,S Class,59_29,59_29$$282,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+315,Sedan,Mercedes-Benz,S Class,59_29,59_29$$359,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+316,Sedan,Mercedes-Benz,S Class,59_29,59_29$$370,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+317,Sedan,Mitsubishi,Lancer,62_14,62_14$$104,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+318,Sedan,Mitsubishi,Lancer,62_14,62_14$$17,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+319,Sedan,Mitsubishi,Lancer,62_14,62_14$$58,reject,Rear,vehicle_missing_fragment_only,False,pending
+320,Sedan,Mitsubishi,Lancer,62_14,62_14$$73,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+321,Sedan,Mitsubishi,Lancer,62_14,62_14$$84,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+322,Sedan,Mitsubishi,Lancer,62_14,62_14$$90,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+323,Sedan,Nissan,Gloria,64_12,64_12$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+324,Sedan,Nissan,President,64_29,64_29$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+325,Sedan,Nissan,Primera,64_31,64_31$$19,uncertain,Rear,rear_three_quarter_view,False,pending
+326,Sedan,Nissan,Tiida,64_40,64_40$$1,uncertain,Side,front_three_quarter_view,False,pending
+327,Sedan,Peugeot,407,69_23,69_23$$16,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+328,Sedan,Peugeot,407,69_23,69_23$$20,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+329,Sedan,Peugeot,407,69_23,69_23$$35,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+330,Sedan,Peugeot,407,69_23,69_23$$40,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+331,Sedan,Peugeot,407,69_23,69_23$$48,uncertain,all,possible_coupe_body_in_sedan_class,False,pending
+332,Sedan,Peugeot,407,69_23,69_23$$57,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+333,Sedan,Peugeot,508,69_26,69_26$$102,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+334,Sedan,Peugeot,508,69_26,69_26$$12,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+335,Sedan,Peugeot,508,69_26,69_26$$137,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+336,Sedan,Peugeot,508,69_26,69_26$$138,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+337,Sedan,Peugeot,508,69_26,69_26$$22,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+338,Sedan,Peugeot,607,69_28,69_28$$5,reject,Rear,open_trunk,False,pending
+339,Sedan,Porsche,Panamera,71_11,71_11$$267,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+340,Sedan,Porsche,Panamera,71_11,71_11$$328,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+341,Sedan,Porsche,Panamera,71_11,71_11$$38,uncertain,Rear,partial_rear_view,False,pending
+342,Sedan,Porsche,Panamera,71_11,71_11$$415,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+343,Sedan,Porsche,Panamera,71_11,71_11$$475,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+344,Sedan,Porsche,Panamera,71_11,71_11$$87,reject,Side,cropped_front_corner_instead_of_side,False,pending
+345,Sedan,Proton,GEN-2,72_1,72_1$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+346,Sedan,Proton,Impian,72_2,72_2$$1,uncertain,Side,front_three_quarter_view,False,pending
+347,Sedan,Proton,Impian,72_2,72_2$$5,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+348,Sedan,Renault,Fluence,75_4,75_4$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+349,Sedan,Renault,Megane,75_12,75_12$$1045,uncertain,"Front,Side",oblique_front_and_side_views,False,pending
+350,Sedan,Renault,Megane,75_12,75_12$$1147,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+351,Sedan,Renault,Megane,75_12,75_12$$167,uncertain,Side,front_three_quarter_view,False,pending
+352,Sedan,Renault,Megane,75_12,75_12$$21,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+353,Sedan,Renault,Megane,75_12,75_12$$535,uncertain,"Side,Rear",oblique_side_and_partial_rear_views,False,pending
+354,Sedan,Rolls-Royce,Ghost,77_3,77_3$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+355,Sedan,Rolls-Royce,Ghost,77_3,77_3$$10,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+356,Sedan,Rolls-Royce,Ghost,77_3,77_3$$12,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+357,Sedan,Rolls-Royce,Ghost,77_3,77_3$$14,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+358,Sedan,Rolls-Royce,Ghost,77_3,77_3$$4,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+359,Sedan,Rolls-Royce,Ghost,77_3,77_3$$7,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+360,Sedan,Rolls-Royce,Phantom,77_4,77_4$$10,uncertain,Rear,rear_three_quarter_view,False,pending
+361,Sedan,Rolls-Royce,Phantom,77_4,77_4$$11,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+362,Sedan,Rolls-Royce,Phantom,77_4,77_4$$26,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+363,Sedan,Rolls-Royce,Silver Seraph,77_5,77_5$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+364,Sedan,Rolls-Royce,Silver Seraph,77_5,77_5$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+365,Sedan,Rolls-Royce,Silver Seraph,77_5,77_5$$3,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+366,Sedan,Rolls-Royce,Silver Seraph,77_5,77_5$$4,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+367,Sedan,Rover,75,78_3,78_3$$100,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+368,Sedan,Rover,75,78_3,78_3$$136,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+369,Sedan,Rover,75,78_3,78_3$$57,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+370,Sedan,Rover,75,78_3,78_3$$70,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+371,Sedan,Rover,75,78_3,78_3$$74,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+372,Sedan,Rover,Mini,78_6,78_6$$3,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+373,Sedan,SEAT,Exeo,79_8,79_8$$11,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+374,Sedan,SEAT,Exeo,79_8,79_8$$121,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+375,Sedan,SEAT,Exeo,79_8,79_8$$29,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+376,Sedan,SEAT,Exeo,79_8,79_8$$35,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+377,Sedan,SEAT,Exeo,79_8,79_8$$68,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+378,Sedan,SEAT,Exeo,79_8,79_8$$93,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+379,Sedan,SEAT,Toledo,79_12,79_12$$35,uncertain,"Front,Rear",oblique_front_and_rear_views,False,pending
+380,Sedan,SKODA,Superb,80_9,80_9$$1068,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+381,Sedan,SKODA,Superb,80_9,80_9$$204,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+382,Sedan,SKODA,Superb,80_9,80_9$$24,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+383,Sedan,SKODA,Superb,80_9,80_9$$349,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+384,Sedan,SKODA,Superb,80_9,80_9$$607,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+385,Sedan,SKODA,Superb,80_9,80_9$$726,reject,Rear,open_trunk,False,pending
+386,Sedan,Saab,09-Mar,81_1,81_1$$106,reject,Front,headlight_closeup,False,pending
+387,Sedan,Saab,09-Mar,81_1,81_1$$150,uncertain,Side,front_three_quarter_view,False,pending
+388,Sedan,Saab,09-Mar,81_1,81_1$$262,uncertain,Side,front_three_quarter_view,False,pending
+389,Sedan,Saab,09-Mar,81_1,81_1$$443,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+390,Sedan,Saab,09-Mar,81_1,81_1$$78,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+391,Sedan,Saab,09-May,81_3,81_3$$173,uncertain,Side,front_three_quarter_view,False,pending
+392,Sedan,Saab,09-May,81_3,81_3$$185,uncertain,Side,rear_three_quarter_view,False,pending
+393,Sedan,Saab,09-May,81_3,81_3$$200,uncertain,Side,front_three_quarter_view,False,pending
+394,Sedan,Saab,09-May,81_3,81_3$$29,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+395,Sedan,Saab,09-May,81_3,81_3$$45,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+396,Sedan,Subaru,Impreza,86_3,86_3$$135,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+397,Sedan,Subaru,Impreza,86_3,86_3$$242,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+398,Sedan,Subaru,Impreza,86_3,86_3$$398,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+399,Sedan,Subaru,Impreza,86_3,86_3$$4,uncertain,Front,high_three_quarter_front_view,False,pending
+400,Sedan,Subaru,Impreza,86_3,86_3$$76,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+401,Sedan,Subaru,Legacy,86_5,86_5$$6,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+402,Sedan,Subaru,WRX STI,86_10,86_10$$15,uncertain,Side,front_three_quarter_view,False,pending
+403,Sedan,Subaru,WRX STI,86_10,86_10$$20,uncertain,Rear,rear_three_quarter_view,False,pending
+404,Sedan,Subaru,WRX STI,86_10,86_10$$25,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+405,Sedan,Subaru,WRX STI,86_10,86_10$$57,uncertain,Rear,rear_three_quarter_view,False,pending
+406,Sedan,Subaru,WRX STI,86_10,86_10$$71,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+407,Sedan,Subaru,WRX STI,86_10,86_10$$84,uncertain,Side,front_three_quarter_view,False,pending
+408,Sedan,Suzuki,Kizashi,87_7,87_7$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+409,Sedan,Tesla,Model S,90_1,90_1$$21,reject,Rear,open_front_storage_instead_of_rear,False,pending
+410,Sedan,Tesla,Model S,90_1,90_1$$31,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+411,Sedan,Tesla,Model S,90_1,90_1$$32,reject,Rear,open_front_storage_instead_of_rear,False,pending
+412,Sedan,Tesla,Model S,90_1,90_1$$42,reject,Rear,open_trunk_interior,False,pending
+413,Sedan,Tesla,Model S,90_1,90_1$$54,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+414,Sedan,Toyota,Avensis,92_4,92_4$$321,reject,Rear,open_engine_bay_instead_of_rear,False,pending
+415,Sedan,Toyota,Avensis,92_4,92_4$$380,reject,Front,open_trunk_instead_of_front,False,pending
+416,Sedan,Toyota,Avensis,92_4,92_4$$383,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+417,Sedan,Toyota,Avensis,92_4,92_4$$596,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+418,Sedan,Toyota,Avensis,92_4,92_4$$661,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+419,Sedan,Toyota,Avensis,92_4,92_4$$75,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+420,Sedan,Toyota,Corolla,92_11,92_11$$59,uncertain,Side,front_three_quarter_view,False,pending
+421,Sedan,Toyota,Verso,92_40,92_40$$177,reject,all,MPV_body_in_sedan_class,False,pending
+422,Sedan,Toyota,Verso,92_40,92_40$$565,reject,all,MPV_body_and_inconsistent_vehicle_identity,False,pending
+423,Sedan,Vauxhall,Insignia,94_13,94_13$$1094,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+424,Sedan,Vauxhall,Insignia,94_13,94_13$$1190,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+425,Sedan,Vauxhall,Insignia,94_13,94_13$$1620,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+426,Sedan,Vauxhall,Insignia,94_13,94_13$$432,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+427,Sedan,Vauxhall,Insignia,94_13,94_13$$571,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+428,Sedan,Vauxhall,Insignia,94_13,94_13$$782,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+429,Sedan,Vauxhall,Omega,94_19,94_19$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+430,Sedan,Vauxhall,Omega,94_19,94_19$$2,uncertain,Side,front_three_quarter_view,False,pending
+431,Sedan,Vauxhall,VXR8,94_26,94_26$$12,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+432,Sedan,Vauxhall,VXR8,94_26,94_26$$20,reject,Front,side_profile_instead_of_front,False,pending
+433,Sedan,Vauxhall,VXR8,94_26,94_26$$23,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+434,Sedan,Vauxhall,VXR8,94_26,94_26$$3,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+435,Sedan,Vauxhall,VXR8,94_26,94_26$$5,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+436,Sedan,Vauxhall,VXR8,94_26,94_26$$8,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+437,Sedan,Vauxhall,Vectra,94_22,94_22$$104,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+438,Sedan,Vauxhall,Vectra,94_22,94_22$$139,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+439,Sedan,Vauxhall,Vectra,94_22,94_22$$74,reject,Rear,open_trunk,False,pending
+440,Sedan,Vauxhall,Vectra,94_22,94_22$$87,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+441,Sedan,Vauxhall,Vectra,94_22,94_22$$93,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+442,Sedan,Volkswagen,Arteon,95_2,95_2$$15,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+443,Sedan,Volkswagen,Arteon,95_2,95_2$$50,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+444,Sedan,Volkswagen,Arteon,95_2,95_2$$54,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+445,Sedan,Volkswagen,Arteon,95_2,95_2$$68,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+446,Sedan,Volkswagen,Arteon,95_2,95_2$$83,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+447,Sedan,Volkswagen,Arteon,95_2,95_2$$89,reject,Rear,open_trunk,False,pending
+448,Sedan,Volkswagen,Beetle,95_3,95_3$$502,reject,all,hatchback_body_in_sedan_class_confirmed_full_size,True,pending
+449,Sedan,Volkswagen,Beetle,95_3,95_3$$854,reject,all,hatchback_body_in_sedan_class_confirmed_full_size,True,pending
+450,Sedan,Volkswagen,Bora,95_4,95_4$$21,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+451,Sedan,Volkswagen,Bora,95_4,95_4$$44,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+452,Sedan,Volkswagen,Bora,95_4,95_4$$60,uncertain,Rear,high_oblique_rear_view,False,pending
+453,Sedan,Volkswagen,Bora,95_4,95_4$$61,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+454,Sedan,Volkswagen,Bora,95_4,95_4$$71,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+455,Sedan,Volkswagen,CC,95_12,95_12$$184,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+456,Sedan,Volkswagen,CC,95_12,95_12$$568,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+457,Sedan,Volkswagen,CC,95_12,95_12$$61,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+458,Sedan,Volkswagen,CC,95_12,95_12$$642,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+459,Sedan,Volkswagen,CC,95_12,95_12$$807,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+460,Sedan,Volkswagen,CC,95_12,95_12$$865,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+461,Sedan,Volkswagen,Jetta,95_18,95_18$$147,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+462,Sedan,Volkswagen,Jetta,95_18,95_18$$250,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+463,Sedan,Volkswagen,Jetta,95_18,95_18$$260,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+464,Sedan,Volkswagen,Jetta,95_18,95_18$$9,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+465,Sedan,Volkswagen,Jetta,95_18,95_18$$94,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+466,Sedan,Volkswagen,Passat,95_20,95_20$$1467,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+467,Sedan,Volkswagen,Passat,95_20,95_20$$1498,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+468,Sedan,Volkswagen,Passat,95_20,95_20$$50,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+469,Sedan,Volkswagen,Passat,95_20,95_20$$513,uncertain,"Side,Rear",oblique_side_and_rear_views,False,pending
+470,Sedan,Volkswagen,Passat,95_20,95_20$$824,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+471,Sedan,Volkswagen,Passat,95_20,95_20$$945,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+472,Sedan,Volkswagen,Phaeton,95_21,95_21$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+473,Sedan,Volkswagen,Phaeton,95_21,95_21$$19,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+474,Sedan,Volkswagen,Phaeton,95_21,95_21$$21,uncertain,Front,front_three_quarter_view,False,pending
+475,Sedan,Volkswagen,Phaeton,95_21,95_21$$32,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+476,Sedan,Volkswagen,Phaeton,95_21,95_21$$36,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+477,Sedan,Volkswagen,Phaeton,95_21,95_21$$39,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+478,Sedan,Volvo,S40,96_3,96_3$$220,reject,Rear,open_trunk,False,pending
+479,Sedan,Volvo,S40,96_3,96_3$$270,uncertain,Rear,rear_three_quarter_view,False,pending
+480,Sedan,Volvo,S40,96_3,96_3$$443,reject,Front,vehicle_missing_fragment_only,False,pending
+481,Sedan,Volvo,S40,96_3,96_3$$466,reject,all,estate_body_in_sedan_class,False,pending
+482,Sedan,Volvo,S40,96_3,96_3$$509,uncertain,Rear,rear_three_quarter_view,False,pending
+483,Sedan,Volvo,S40,96_3,96_3$$539,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+484,Sedan,Volvo,S60,96_4,96_4$$147,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+485,Sedan,Volvo,S60,96_4,96_4$$228,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+486,Sedan,Volvo,S60,96_4,96_4$$239,uncertain,"Front,Rear",front_and_rear_three_quarter_views,False,pending
+487,Sedan,Volvo,S60,96_4,96_4$$241,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+488,Sedan,Volvo,S60,96_4,96_4$$300,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+489,Sedan,Volvo,S60,96_4,96_4$$85,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+490,Sedan,Volvo,S80,96_5,96_5$$105,uncertain,Rear,rear_three_quarter_view,False,pending
+491,Sedan,Volvo,S80,96_5,96_5$$6,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+492,Sedan,Volvo,S80,96_5,96_5$$71,reject,Rear,open_trunk,False,pending
+493,Sedan,Volvo,S80,96_5,96_5$$73,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+494,Sedan,Volvo,S80,96_5,96_5$$79,reject,all,front_closeup_cropped_side_and_open_trunk,False,pending
+495,Sedan,Volvo,S80,96_5,96_5$$96,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+496,Sedan,Volvo,S90,96_6,96_6$$15,reject,all,estate_body_in_sedan_class,False,pending
+497,Sedan,Volvo,S90,96_6,96_6$$31,reject,all,estate_body_in_sedan_class,False,pending
+498,Sedan,Volvo,S90,96_6,96_6$$5,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+499,Sedan,Volvo,S90,96_6,96_6$$51,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+500,Sedan,Volvo,S90,96_6,96_6$$84,reject,Rear,open_trunk,False,pending
+501,SUV,Alfa Romeo,Stelvio,4_16,4_16$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+502,SUV,Alfa Romeo,Stelvio,4_16,4_16$$13,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+503,SUV,Alfa Romeo,Stelvio,4_16,4_16$$2,uncertain,Side,front_three_quarter_view,False,pending
+504,SUV,Alfa Romeo,Stelvio,4_16,4_16$$7,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+505,SUV,Audi,Q2,7_18,7_18$$257,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+506,SUV,Audi,Q2,7_18,7_18$$275,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+507,SUV,Audi,Q2,7_18,7_18$$48,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+508,SUV,Audi,Q2,7_18,7_18$$98,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+509,SUV,Audi,Q3,7_19,7_19$$119,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+510,SUV,Audi,Q3,7_19,7_19$$151,uncertain,Rear,possible_color_identity_mismatch,False,pending
+511,SUV,Audi,Q3,7_19,7_19$$281,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+512,SUV,Audi,Q3,7_19,7_19$$416,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+513,SUV,Audi,Q5,7_20,7_20$$1049,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+514,SUV,Audi,Q5,7_20,7_20$$117,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+515,SUV,Audi,Q5,7_20,7_20$$511,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+516,SUV,Audi,Q7,7_21,7_21$$272,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+517,SUV,Audi,Q7,7_21,7_21$$409,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+518,SUV,Audi,Q7,7_21,7_21$$934,uncertain,Side,front_three_quarter_view,False,pending
+519,SUV,Audi,Q7,7_21,7_21$$983,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+520,SUV,Audi,RS Q3,7_24,7_24$$18,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+521,SUV,Audi,RS Q3,7_24,7_24$$6,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+522,SUV,Audi,RS Q3,7_24,7_24$$7,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+523,SUV,Audi,RS Q3,7_24,7_24$$9,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+524,SUV,Audi,SQ5,7_44,7_44$$103,uncertain,Side,front_three_quarter_view,False,pending
+525,SUV,Audi,SQ5,7_44,7_44$$152,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+526,SUV,Audi,SQ5,7_44,7_44$$263,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+527,SUV,Audi,SQ5,7_44,7_44$$297,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+528,SUV,Audi,SQ7,7_45,7_45$$17,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+529,SUV,Audi,SQ7,7_45,7_45$$39,uncertain,Side,front_three_quarter_view,False,pending
+530,SUV,Audi,SQ7,7_45,7_45$$40,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+531,SUV,Audi,SQ7,7_45,7_45$$51,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+532,SUV,BMW,X1,8_35,8_35$$338,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+533,SUV,BMW,X1,8_35,8_35$$562,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+534,SUV,BMW,X1,8_35,8_35$$571,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+535,SUV,BMW,X3,8_37,8_37$$1025,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+536,SUV,BMW,X3,8_37,8_37$$124,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+537,SUV,BMW,X3,8_37,8_37$$802,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+538,SUV,BMW,X3,8_37,8_37$$818,provisional_keep,,No obvious issue observed in contact-sheet screening,True,pending
+539,SUV,BMW,X4,8_38,8_38$$111,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+540,SUV,BMW,X4,8_38,8_38$$39,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+541,SUV,BMW,X4,8_38,8_38$$6,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+542,SUV,BMW,X4,8_38,8_38$$95,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+543,SUV,BMW,X5,8_39,8_39$$1466,uncertain,Rear,rear_three_quarter_view,False,pending
+544,SUV,BMW,X5,8_39,8_39$$1784,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+545,SUV,BMW,X5,8_39,8_39$$3089,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+546,SUV,BMW,X5,8_39,8_39$$908,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+547,SUV,BMW,X5M,8_40,8_40$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+548,SUV,BMW,X5M,8_40,8_40$$3,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+549,SUV,BMW,X5M,8_40,8_40$$5,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+550,SUV,BMW,X5M,8_40,8_40$$6,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+551,SUV,BMW,X6,8_41,8_41$$526,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+552,SUV,BMW,X6,8_41,8_41$$733,reject,Rear,non_SUV_vehicle_in_rear_slot,False,pending
+553,SUV,BMW,X6,8_41,8_41$$88,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+554,SUV,BMW,X6,8_41,8_41$$997,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+555,SUV,BMW,X6M,8_42,8_42$$10,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+556,SUV,BMW,X6M,8_42,8_42$$2,uncertain,Side,front_three_quarter_view,False,pending
+557,SUV,BMW,X6M,8_42,8_42$$4,reject,"Side,Rear",fragmented_side_and_sedan_in_rear_slot,False,pending
+558,SUV,BMW,X6M,8_42,8_42$$9,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+559,SUV,Bentley,Bentayga,10_3,10_3$$27,reject,all,Porsche_Panamera_photos_in_Bentley_Bentayga_SUV_record,True,pending
+560,SUV,Bentley,Bentayga,10_3,10_3$$87,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+561,SUV,Bentley,Bentayga,10_3,10_3$$91,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+562,SUV,Chevrolet,Blazer,16_3,16_3$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+563,SUV,Chevrolet,Captiva,16_5,16_5$$18,reject,Rear,front_view_instead_of_rear,False,pending
+564,SUV,Chevrolet,Captiva,16_5,16_5$$40,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+565,SUV,Chevrolet,Captiva,16_5,16_5$$73,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+566,SUV,Chevrolet,Captiva,16_5,16_5$$93,reject,Rear; Side,vehicle_missing_fragment_only; rear_three_quarter_view,False,pending
+567,SUV,Citroen,C-Crosser,18_4,18_4$$10,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+568,SUV,Citroen,C-Crosser,18_4,18_4$$19,uncertain,Rear,rear_three_quarter_view,False,pending
+569,SUV,Citroen,C-Crosser,18_4,18_4$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+570,SUV,Citroen,C-Crosser,18_4,18_4$$4,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+571,SUV,Citroen,C3 Aircross,18_9,18_9$$141,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+572,SUV,Citroen,C3 Aircross,18_9,18_9$$160,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+573,SUV,Citroen,C3 Aircross,18_9,18_9$$210,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+574,SUV,Citroen,C3 Aircross,18_9,18_9$$37,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+575,SUV,Dacia,Duster,22_1,22_1$$155,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+576,SUV,Dacia,Duster,22_1,22_1$$192,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+577,SUV,Dacia,Duster,22_1,22_1$$305,reject,Rear,vehicle_fragment_instead_of_rear,False,pending
+578,SUV,Dacia,Duster,22_1,22_1$$443,uncertain,Rear,severe_segmentation_damage,False,pending
+579,SUV,Daihatsu,Terios,24_8,24_8$$10,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+580,SUV,Daihatsu,Terios,24_8,24_8$$25,uncertain,Side,front_three_quarter_view,False,pending
+581,SUV,Daihatsu,Terios,24_8,24_8$$28,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+582,SUV,Daihatsu,Terios,24_8,24_8$$7,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+583,SUV,Dodge,Journey,26_5,26_5$$3,reject,Side,rear_view_instead_of_side,False,pending
+584,SUV,Dodge,Journey,26_5,26_5$$9,reject,Front,vehicle_missing_fragment_only,False,pending
+585,SUV,Dodge,Nitro,26_6,26_6$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+586,SUV,Dodge,Nitro,26_6,26_6$$22,reject,"Side,Rear",vehicle_fragments_only,False,pending
+587,SUV,Dodge,Nitro,26_6,26_6$$31,reject,Rear,vehicle_fragment_only,False,pending
+588,SUV,Dodge,Nitro,26_6,26_6$$33,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+589,SUV,Fiat,500X,28_5,28_5$$125,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+590,SUV,Fiat,500X,28_5,28_5$$128,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+591,SUV,Fiat,500X,28_5,28_5$$177,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+592,SUV,Fiat,500X,28_5,28_5$$96,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+593,SUV,Ford,EcoSport,29_4,29_4$$100,uncertain,Side,front_three_quarter_view,False,pending
+594,SUV,Ford,EcoSport,29_4,29_4$$121,uncertain,Side,front_three_quarter_view,False,pending
+595,SUV,Ford,EcoSport,29_4,29_4$$421,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+596,SUV,Ford,EcoSport,29_4,29_4$$472,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+597,SUV,Ford,Edge,29_5,29_5$$254,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+598,SUV,Ford,Edge,29_5,29_5$$29,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+599,SUV,Ford,Edge,29_5,29_5$$55,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+600,SUV,Ford,Edge,29_5,29_5$$81,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+601,SUV,Ford,Explorer,29_9,29_9$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+602,SUV,Ford,Explorer,29_9,29_9$$5,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+603,SUV,Ford,Kuga,29_25,29_25$$107,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+604,SUV,Ford,Kuga,29_25,29_25$$1981,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+605,SUV,Ford,Kuga,29_25,29_25$$2231,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+606,SUV,Ford,Kuga,29_25,29_25$$2441,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+607,SUV,Ford,Maverick,29_26,29_26$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+608,SUV,Ford,Maverick,29_26,29_26$$4,uncertain,Side,front_three_quarter_view,False,pending
+609,SUV,Ford,Maverick,29_26,29_26$$6,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+610,SUV,Honda,CR-V,34_3,34_3$$1506,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+611,SUV,Honda,CR-V,34_3,34_3$$312,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+612,SUV,Honda,CR-V,34_3,34_3$$641,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+613,SUV,Honda,HR-V,34_8,34_8$$102,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+614,SUV,Honda,HR-V,34_8,34_8$$262,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+615,SUV,Honda,HR-V,34_8,34_8$$329,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+616,SUV,Honda,HR-V,34_8,34_8$$68,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+617,SUV,Hyundai,Kona,36_17,36_17$$113,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+618,SUV,Hyundai,Kona,36_17,36_17$$12,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+619,SUV,Hyundai,Kona,36_17,36_17$$82,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+620,SUV,Hyundai,Kona,36_17,36_17$$83,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+621,SUV,Hyundai,Santa Fe,36_20,36_20$$20,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+622,SUV,Hyundai,Santa Fe,36_20,36_20$$387,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+623,SUV,Hyundai,Santa Fe,36_20,36_20$$393,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+624,SUV,Hyundai,Santa Fe,36_20,36_20$$589,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+625,SUV,Hyundai,Terracan,36_22,36_22$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+626,SUV,Hyundai,Tucson,36_24,36_24$$106,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+627,SUV,Hyundai,Tucson,36_24,36_24$$199,uncertain,Side,front_three_quarter_view,False,pending
+628,SUV,Hyundai,Tucson,36_24,36_24$$203,uncertain,Side,front_three_quarter_view,False,pending
+629,SUV,Hyundai,Tucson,36_24,36_24$$34,uncertain,Side,oblique_side_view_and_segmentation_artifact_full_size_recheck,True,pending
+630,SUV,Hyundai,ix35,36_16,36_16$$12,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+631,SUV,Hyundai,ix35,36_16,36_16$$14,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+632,SUV,Hyundai,ix35,36_16,36_16$$331,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+633,SUV,Infiniti,EX,37_1,37_1$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+634,SUV,Infiniti,EX,37_1,37_1$$3,uncertain,Side,front_three_quarter_view,False,pending
+635,SUV,Infiniti,EX,37_1,37_1$$4,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+636,SUV,Infiniti,EX,37_1,37_1$$5,reject,Side,doors_open_and_oblique_view,False,pending
+637,SUV,Infiniti,FX,37_2,37_2$$12,reject,Rear,open_trunk,False,pending
+638,SUV,Infiniti,FX,37_2,37_2$$25,reject,Front,grille_closeup,False,pending
+639,SUV,Infiniti,FX,37_2,37_2$$7,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+640,SUV,Infiniti,FX,37_2,37_2$$8,reject,Front,grille_closeup,False,pending
+641,SUV,Infiniti,QX30,37_9,37_9$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+642,SUV,Infiniti,QX30,37_9,37_9$$11,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+643,SUV,Infiniti,QX30,37_9,37_9$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+644,SUV,Infiniti,QX30,37_9,37_9$$9,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+645,SUV,Infiniti,QX50,37_10,37_10$$1,uncertain,Side,front_three_quarter_view,False,pending
+646,SUV,Infiniti,QX50,37_10,37_10$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+647,SUV,Infiniti,QX70,37_11,37_11$$10,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+648,SUV,Infiniti,QX70,37_11,37_11$$11,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+649,SUV,Infiniti,QX70,37_11,37_11$$5,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+650,SUV,Infiniti,QX70,37_11,37_11$$8,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+651,SUV,Infiniti,Vettel,37_12,37_12$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+652,SUV,Isuzu,D-Max,38_2,38_2$$217,reject,all,pickup_in_SUV_class_and_fragmented_rear,False,pending
+653,SUV,Isuzu,D-Max,38_2,38_2$$476,reject,all,pickup_in_SUV_class_and_fragmented_views,False,pending
+654,SUV,Isuzu,D-Max,38_2,38_2$$598,reject,all,pickup_with_canopy_in_SUV_class,False,pending
+655,SUV,Jaguar,E-PACE,39_1,39_1$$12,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+656,SUV,Jaguar,E-PACE,39_1,39_1$$25,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+657,SUV,Jaguar,E-PACE,39_1,39_1$$28,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+658,SUV,Jaguar,E-PACE,39_1,39_1$$55,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+659,SUV,Jaguar,F-PACE,39_2,39_2$$121,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+660,SUV,Jaguar,F-PACE,39_2,39_2$$185,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+661,SUV,Jaguar,F-PACE,39_2,39_2$$569,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+662,SUV,Jaguar,F-PACE,39_2,39_2$$730,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+663,SUV,Jeep,Cherokee,40_1,40_1$$101,reject,"Side,Rear",fragmented_side_and_severely_damaged_rear_segmentation,False,pending
+664,SUV,Jeep,Cherokee,40_1,40_1$$112,reject,Rear,open_trunk,False,pending
+665,SUV,Jeep,Cherokee,40_1,40_1$$122,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+666,SUV,Jeep,Cherokee,40_1,40_1$$159,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+667,SUV,Jeep,Commander,40_2,40_2$$28,reject,all,vehicle_fragments_only,False,pending
+668,SUV,Jeep,Compass,40_3,40_3$$17,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+669,SUV,Jeep,Compass,40_3,40_3$$35,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+670,SUV,Jeep,Compass,40_3,40_3$$42,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+671,SUV,Jeep,Compass,40_3,40_3$$55,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+672,SUV,Jeep,Grand Cherokee,40_4,40_4$$125,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+673,SUV,Jeep,Grand Cherokee,40_4,40_4$$143,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+674,SUV,Jeep,Grand Cherokee,40_4,40_4$$193,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+675,SUV,Jeep,Patriot,40_5,40_5$$10,reject,Side,wrong_vehicle_and_partial_view,False,pending
+676,SUV,Jeep,Patriot,40_5,40_5$$35,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+677,SUV,Jeep,Patriot,40_5,40_5$$37,reject,Side,vehicle_fragment_only,False,pending
+678,SUV,Jeep,Patriot,40_5,40_5$$43,reject,"Side,Rear",fragmented_side_and_open_trunk,False,pending
+679,SUV,Jeep,Renegade,40_6,40_6$$165,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+680,SUV,Jeep,Renegade,40_6,40_6$$350,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+681,SUV,Jeep,Renegade,40_6,40_6$$536,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+682,SUV,Jeep,Renegade,40_6,40_6$$586,reject,Rear,vehicle_fragment_only,False,pending
+683,SUV,Kia,Niro,43_5,43_5$$18,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+684,SUV,Kia,Niro,43_5,43_5$$34,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+685,SUV,Kia,Niro,43_5,43_5$$42,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+686,SUV,Kia,Niro,43_5,43_5$$49,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+687,SUV,Kia,Sorento,43_11,43_11$$272,uncertain,Rear,rear_three_quarter_view,False,pending
+688,SUV,Kia,Sorento,43_11,43_11$$274,uncertain,Side,front_three_quarter_view,False,pending
+689,SUV,Kia,Sorento,43_11,43_11$$40,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+690,SUV,Kia,Sorento,43_11,43_11$$573,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+691,SUV,Kia,Sportage,43_13,43_13$$217,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+692,SUV,Kia,Sportage,43_13,43_13$$459,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+693,SUV,Kia,Sportage,43_13,43_13$$578,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+694,SUV,Kia,Sportage,43_13,43_13$$786,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+695,SUV,Kia,Stonic,43_15,43_15$$6,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+696,SUV,Kia,Stonic,43_15,43_15$$62,uncertain,Rear,rear_three_quarter_view,False,pending
+697,SUV,Kia,Stonic,43_15,43_15$$78,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+698,SUV,Kia,Stonic,43_15,43_15$$93,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+699,SUV,Land Rover,Defender 110,47_2,47_2$$240,reject,all,vehicle_fragments_and_inconsistent_identity,False,pending
+700,SUV,Land Rover,Defender 110,47_2,47_2$$509,reject,all,vehicle_fragments_only,False,pending
+701,SUV,Land Rover,Defender 90,47_4,47_4$$12,reject,all,wrong_vehicles_and_inconsistent_views,False,pending
+702,SUV,Land Rover,Defender 90,47_4,47_4$$262,reject,all,wrong_views_and_fragmented_vehicle,False,pending
+703,SUV,Land Rover,Defender 90,47_4,47_4$$290,reject,"Side,Rear",fragmented_side_and_wrong_vehicle_front_in_rear_slot,False,pending
+704,SUV,Land Rover,Defender 90,47_4,47_4$$346,reject,all,vehicle_fragments_only,False,pending
+705,SUV,Land Rover,Discovery,47_6,47_6$$280,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+706,SUV,Land Rover,Discovery,47_6,47_6$$404,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+707,SUV,Land Rover,Discovery,47_6,47_6$$633,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+708,SUV,Land Rover,Discovery,47_6,47_6$$72,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+709,SUV,Land Rover,Discovery 3,47_8,47_8$$358,uncertain,Side,front_three_quarter_view,False,pending
+710,SUV,Land Rover,Discovery 3,47_8,47_8$$377,reject,"Side,Rear",vehicle_fragments_only,False,pending
+711,SUV,Land Rover,Discovery 4,47_9,47_9$$1274,reject,Rear,open_trunk_interior,False,pending
+712,SUV,Land Rover,Discovery 4,47_9,47_9$$450,uncertain,Side,multiple_vehicles_and_partial_segmentation,False,pending
+713,SUV,Land Rover,Discovery 4,47_9,47_9$$493,reject,Side,vehicle_fragment_only,False,pending
+714,SUV,Land Rover,Discovery 4,47_9,47_9$$550,reject,Rear,vehicle_fragment_only,False,pending
+715,SUV,Land Rover,Discovery Sport,47_10,47_10$$128,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+716,SUV,Land Rover,Discovery Sport,47_10,47_10$$143,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+717,SUV,Land Rover,Discovery Sport,47_10,47_10$$187,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+718,SUV,Land Rover,Discovery Sport,47_10,47_10$$198,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+719,SUV,Land Rover,Freelander,47_11,47_11$$117,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+720,SUV,Land Rover,Freelander,47_11,47_11$$189,reject,Rear,open_engine_bay_instead_of_rear,False,pending
+721,SUV,Land Rover,Freelander,47_11,47_11$$280,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+722,SUV,Land Rover,Freelander,47_11,47_11$$314,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+723,SUV,Land Rover,Freelander 2,47_12,47_12$$346,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+724,SUV,Land Rover,Freelander 2,47_12,47_12$$367,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+725,SUV,Land Rover,Freelander 2,47_12,47_12$$585,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+726,SUV,Land Rover,Freelander 2,47_12,47_12$$748,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+727,SUV,Land Rover,Range Rover,47_13,47_13$$227,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+728,SUV,Land Rover,Range Rover,47_13,47_13$$366,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+729,SUV,Land Rover,Range Rover,47_13,47_13$$737,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+730,SUV,Land Rover,Range Rover,47_13,47_13$$984,reject,"Side,Rear",rear_in_side_slot_and_interior_door_panel_in_rear_slot,False,pending
+731,SUV,Land Rover,Range Rover Evoque,47_14,47_14$$109,reject,Rear,vehicle_fragment_only,False,pending
+732,SUV,Land Rover,Range Rover Evoque,47_14,47_14$$168,reject,Rear,vehicle_fragment_only,False,pending
+733,SUV,Land Rover,Range Rover Evoque,47_14,47_14$$49,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+734,SUV,Land Rover,Range Rover Evoque,47_14,47_14$$67,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+735,SUV,Land Rover,Range Rover Sport,47_15,47_15$$376,uncertain,Side,front_three_quarter_view,False,pending
+736,SUV,Land Rover,Range Rover Sport,47_15,47_15$$412,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+737,SUV,Land Rover,Range Rover Sport,47_15,47_15$$445,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+738,SUV,Land Rover,Range Rover Velar,47_16,47_16$$161,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+739,SUV,Land Rover,Range Rover Velar,47_16,47_16$$230,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+740,SUV,Land Rover,Range Rover Velar,47_16,47_16$$301,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+741,SUV,Land Rover,Range Rover Velar,47_16,47_16$$92,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+742,SUV,Lexus,NX 300h,48_18,48_18$$138,uncertain,Rear,rear_three_quarter_view,False,pending
+743,SUV,Lexus,NX 300h,48_18,48_18$$349,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+744,SUV,Lexus,NX 300h,48_18,48_18$$408,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+745,SUV,Lexus,NX 300h,48_18,48_18$$453,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+746,SUV,Lexus,RX 450h,48_24,48_24$$377,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+747,SUV,Lexus,RX 450h,48_24,48_24$$422,uncertain,Rear,rear_three_quarter_view,False,pending
+748,SUV,Lexus,RX 450h,48_24,48_24$$760,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+749,SUV,Lexus,RX 450h,48_24,48_24$$762,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+750,SUV,MG,GS,53_1,53_1$$1,reject,Front,severe_foreground_segmentation_damage,False,pending
+751,SUV,MG,GS,53_1,53_1$$22,uncertain,Rear,rear_three_quarter_view,False,pending
+752,SUV,MG,GS,53_1,53_1$$58,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+753,SUV,MG,GS,53_1,53_1$$65,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+754,SUV,MG,ZS,53_7,53_7$$12,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+755,SUV,MG,ZS,53_7,53_7$$15,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+756,SUV,MG,ZS,53_7,53_7$$25,reject,Rear,open_trunk,False,pending
+757,SUV,MG,ZS,53_7,53_7$$28,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+758,SUV,Maserati,Levante,55_9,55_9$$20,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+759,SUV,Maserati,Levante,55_9,55_9$$45,uncertain,Rear,rear_three_quarter_view,False,pending
+760,SUV,Maserati,Levante,55_9,55_9$$50,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+761,SUV,Mazda,CX-3,57_6,57_6$$345,uncertain,Side,rear_three_quarter_view,False,pending
+762,SUV,Mazda,CX-3,57_6,57_6$$452,reject,Rear,open_trunk,False,pending
+763,SUV,Mazda,CX-3,57_6,57_6$$455,uncertain,Front,front_three_quarter_view,False,pending
+764,SUV,Mazda,CX-3,57_6,57_6$$74,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+765,SUV,Mazda,CX-5,57_7,57_7$$142,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+766,SUV,Mazda,CX-5,57_7,57_7$$244,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+767,SUV,Mazda,CX-5,57_7,57_7$$407,uncertain,Rear,rear_three_quarter_view,False,pending
+768,SUV,Mazda,CX-5,57_7,57_7$$645,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+769,SUV,Mazda,CX-7,57_8,57_8$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+770,SUV,Mazda,CX-7,57_8,57_8$$18,uncertain,Side,front_three_quarter_view,False,pending
+771,SUV,Mazda,CX-7,57_8,57_8$$2,uncertain,Side,front_three_quarter_view,False,pending
+772,SUV,Mazda,CX-7,57_8,57_8$$26,uncertain,Side,front_three_quarter_view,False,pending
+773,SUV,Mazda,Tribute,57_19,57_19$$3,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+774,SUV,Mercedes-Benz,GL Class,59_22,59_22$$16,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+775,SUV,Mercedes-Benz,GL Class,59_22,59_22$$2,uncertain,"Side,Rear",oblique_side_and_rear_views,False,pending
+776,SUV,Mercedes-Benz,GL Class,59_22,59_22$$30,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+777,SUV,Mercedes-Benz,GL Class,59_22,59_22$$32,uncertain,Rear,rear_three_quarter_view,False,pending
+778,SUV,Mercedes-Benz,GLA Class,59_23,59_23$$229,uncertain,Side,rear_three_quarter_view,False,pending
+779,SUV,Mercedes-Benz,GLA Class,59_23,59_23$$364,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+780,SUV,Mercedes-Benz,GLA Class,59_23,59_23$$370,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+781,SUV,Mercedes-Benz,GLA Class,59_23,59_23$$58,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+782,SUV,Mercedes-Benz,GLC Class,59_24,59_24$$152,uncertain,Rear,rear_three_quarter_view,False,pending
+783,SUV,Mercedes-Benz,GLC Class,59_24,59_24$$261,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+784,SUV,Mercedes-Benz,GLC Class,59_24,59_24$$46,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+785,SUV,Mercedes-Benz,GLC Class,59_24,59_24$$93,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+786,SUV,Mercedes-Benz,GLE Class,59_25,59_25$$128,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+787,SUV,Mercedes-Benz,GLE Class,59_25,59_25$$159,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+788,SUV,Mercedes-Benz,GLE Class,59_25,59_25$$45,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+789,SUV,Mercedes-Benz,GLE Class,59_25,59_25$$50,reject,Rear,open_trunk_interior,False,pending
+790,SUV,Mercedes-Benz,GLS Class,59_26,59_26$$12,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+791,SUV,Mercedes-Benz,GLS Class,59_26,59_26$$32,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+792,SUV,Mercedes-Benz,GLS Class,59_26,59_26$$55,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+793,SUV,Mercedes-Benz,GLS Class,59_26,59_26$$56,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+794,SUV,Mercedes-Benz,M Class,59_27,59_27$$136,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+795,SUV,Mercedes-Benz,M Class,59_27,59_27$$280,uncertain,Side,front_three_quarter_view,False,pending
+796,SUV,Mercedes-Benz,M Class,59_27,59_27$$451,uncertain,Side,front_three_quarter_view,False,pending
+797,SUV,Mitsubishi,ASX,62_1,62_1$$130,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+798,SUV,Mitsubishi,ASX,62_1,62_1$$304,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+799,SUV,Mitsubishi,ASX,62_1,62_1$$319,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+800,SUV,Mitsubishi,ASX,62_1,62_1$$40,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+801,SUV,Mitsubishi,Eclipse Cross,62_7,62_7$$47,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+802,SUV,Mitsubishi,Eclipse Cross,62_7,62_7$$5,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+803,SUV,Mitsubishi,Eclipse Cross,62_7,62_7$$68,uncertain,Side,front_three_quarter_view,False,pending
+804,SUV,Mitsubishi,Eclipse Cross,62_7,62_7$$80,uncertain,Side,front_three_quarter_view,False,pending
+805,SUV,Mitsubishi,L200,62_13,62_13$$174,reject,all,pickup_in_SUV_class_and_fragmented_views,False,pending
+806,SUV,Mitsubishi,Outlander,62_16,62_16$$19,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+807,SUV,Mitsubishi,Outlander,62_16,62_16$$29,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+808,SUV,Mitsubishi,Outlander,62_16,62_16$$53,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+809,SUV,Mitsubishi,Outlander,62_16,62_16$$97,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+810,SUV,Mitsubishi,Shogun,62_18,62_18$$147,reject,Rear,severe_rear_segmentation_hole,False,pending
+811,SUV,Mitsubishi,Shogun,62_18,62_18$$36,reject,Rear,severe_rear_segmentation_hole,False,pending
+812,SUV,Mitsubishi,Shogun,62_18,62_18$$51,reject,Rear,different_small_hatchback_in_rear_slot,False,pending
+813,SUV,Mitsubishi,Shogun,62_18,62_18$$86,reject,"Front,Rear",detached_bumper_and_interior_panel,False,pending
+814,SUV,Mitsubishi,Shogun Sport,62_20,62_20$$24,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+815,SUV,Mitsubishi,Shogun Sport,62_20,62_20$$31,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+816,SUV,Mitsubishi,Shogun Sport,62_20,62_20$$6,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+817,SUV,Nissan,Elgrand,64_8,64_8$$41,reject,all,van_MPV_in_SUV_class,False,pending
+818,SUV,Nissan,Elgrand,64_8,64_8$$80,reject,all,van_body_fragmented_side_and_open_rear,False,pending
+819,SUV,Nissan,Juke,64_14,64_14$$1455,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+820,SUV,Nissan,Juke,64_14,64_14$$2181,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+821,SUV,Nissan,Juke,64_14,64_14$$2292,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+822,SUV,Nissan,Juke,64_14,64_14$$2699,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+823,SUV,Nissan,Murano,64_19,64_19$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+824,SUV,Nissan,Murano,64_19,64_19$$2,uncertain,Rear,high_oblique_rear_view,False,pending
+825,SUV,Nissan,Murano,64_19,64_19$$3,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+826,SUV,Nissan,Murano,64_19,64_19$$4,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+827,SUV,Nissan,Navara,64_20,64_20$$123,reject,all,pickup_with_canopy_in_SUV_class,False,pending
+828,SUV,Nissan,Navara,64_20,64_20$$442,reject,all,pickup_in_SUV_class_and_fragmented_rear,False,pending
+829,SUV,Nissan,Qashqai,64_33,64_33$$1642,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+830,SUV,Nissan,Qashqai,64_33,64_33$$1957,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+831,SUV,Nissan,Qashqai,64_33,64_33$$434,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+832,SUV,Nissan,Qashqai,64_33,64_33$$7,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+833,SUV,Nissan,Qashqai+2,64_34,64_34$$141,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+834,SUV,Nissan,Qashqai+2,64_34,64_34$$194,uncertain,Rear,rear_three_quarter_view,False,pending
+835,SUV,Nissan,Qashqai+2,64_34,64_34$$34,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+836,SUV,Nissan,Qashqai+2,64_34,64_34$$52,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+837,SUV,Nissan,Terrano II,64_39,64_39$$2,reject,"Side,Rear",vehicle_fragments_and_segmentation_damage,False,pending
+838,SUV,Nissan,X-Trail,64_41,64_41$$817,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+839,SUV,Nissan,X-Trail,64_41,64_41$$908,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+840,SUV,Nissan,X-Trail,64_41,64_41$$924,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+841,SUV,Nissan,X-Trail,64_41,64_41$$972,reject,Rear,open_trunk,False,pending
+842,SUV,Peugeot,2008,69_5,69_5$$566,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+843,SUV,Peugeot,2008,69_5,69_5$$61,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+844,SUV,Peugeot,2008,69_5,69_5$$87,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+845,SUV,Peugeot,3008,69_13,69_13$$130,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+846,SUV,Peugeot,3008,69_13,69_13$$224,reject,Front,open_engine_bay,False,pending
+847,SUV,Peugeot,3008,69_13,69_13$$495,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+848,SUV,Peugeot,3008,69_13,69_13$$620,uncertain,Front,partial_front_view,False,pending
+849,SUV,Peugeot,4007,69_21,69_21$$11,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+850,SUV,Peugeot,4007,69_21,69_21$$13,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+851,SUV,Peugeot,4007,69_21,69_21$$20,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+852,SUV,Peugeot,4007,69_21,69_21$$5,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+853,SUV,Peugeot,5008,69_25,69_25$$169,uncertain,Side,front_three_quarter_view,False,pending
+854,SUV,Peugeot,5008,69_25,69_25$$212,uncertain,Side,rear_three_quarter_view,False,pending
+855,SUV,Peugeot,5008,69_25,69_25$$296,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+856,SUV,Porsche,Cayenne,71_8,71_8$$134,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+857,SUV,Porsche,Cayenne,71_8,71_8$$307,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+858,SUV,Porsche,Cayenne,71_8,71_8$$381,uncertain,Side,front_three_quarter_view,False,pending
+859,SUV,Porsche,Macan,71_10,71_10$$155,uncertain,Side,front_three_quarter_view,False,pending
+860,SUV,Porsche,Macan,71_10,71_10$$177,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+861,SUV,Porsche,Macan,71_10,71_10$$192,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+862,SUV,Porsche,Macan,71_10,71_10$$476,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+863,SUV,Renault,Captur,75_1,75_1$$189,uncertain,Side,front_three_quarter_view,False,pending
+864,SUV,Renault,Captur,75_1,75_1$$356,uncertain,Side,front_three_quarter_view,False,pending
+865,SUV,Renault,Captur,75_1,75_1$$452,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+866,SUV,Renault,Captur,75_1,75_1$$58,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+867,SUV,Renault,Kadjar,75_8,75_8$$134,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+868,SUV,Renault,Kadjar,75_8,75_8$$237,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+869,SUV,Renault,Kadjar,75_8,75_8$$282,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+870,SUV,Renault,Kadjar,75_8,75_8$$376,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+871,SUV,Renault,Koleos,75_10,75_10$$103,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+872,SUV,Renault,Koleos,75_10,75_10$$154,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+873,SUV,Renault,Koleos,75_10,75_10$$65,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+874,SUV,Renault,Koleos,75_10,75_10$$91,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+875,SUV,SEAT,Arona,79_4,79_4$$101,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+876,SUV,SEAT,Arona,79_4,79_4$$26,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+877,SUV,SEAT,Arona,79_4,79_4$$42,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+878,SUV,SEAT,Arona,79_4,79_4$$87,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+879,SUV,SEAT,Ateca,79_6,79_6$$125,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+880,SUV,SEAT,Ateca,79_6,79_6$$128,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+881,SUV,SEAT,Ateca,79_6,79_6$$131,provisional_keep,,No obvious issue observed in contact-sheet screening,True,pending
+882,SUV,SEAT,Ateca,79_6,79_6$$31,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+883,SUV,SKODA,Karoq,80_3,80_3$$103,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+884,SUV,SKODA,Karoq,80_3,80_3$$146,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+885,SUV,SKODA,Karoq,80_3,80_3$$48,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+886,SUV,SKODA,Karoq,80_3,80_3$$89,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+887,SUV,SKODA,Kodiaq,80_4,80_4$$151,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+888,SUV,SKODA,Kodiaq,80_4,80_4$$175,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+889,SUV,SKODA,Kodiaq,80_4,80_4$$246,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+890,SUV,SKODA,Kodiaq,80_4,80_4$$255,reject,Rear,open_trunk,False,pending
+891,SUV,SKODA,Yeti,80_10,80_10$$145,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+892,SUV,SKODA,Yeti,80_10,80_10$$25,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+893,SUV,SKODA,Yeti,80_10,80_10$$329,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+894,SUV,SKODA,Yeti,80_10,80_10$$568,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+895,SUV,Ssangyong,Korando,85_1,85_1$$129,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+896,SUV,Ssangyong,Korando,85_1,85_1$$203,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+897,SUV,Ssangyong,Korando,85_1,85_1$$223,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+898,SUV,Ssangyong,Korando Sports,85_2,85_2$$16,reject,all,pickup_with_canopy_in_SUV_class,False,pending
+899,SUV,Ssangyong,Kyron,85_3,85_3$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+900,SUV,Ssangyong,Kyron,85_3,85_3$$5,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+901,SUV,Ssangyong,Rexton,85_5,85_5$$12,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+902,SUV,Ssangyong,Rexton,85_5,85_5$$14,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+903,SUV,Ssangyong,Rexton,85_5,85_5$$29,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+904,SUV,Ssangyong,Rexton,85_5,85_5$$36,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+905,SUV,Ssangyong,Tivoli,85_7,85_7$$232,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+906,SUV,Ssangyong,Tivoli,85_7,85_7$$264,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+907,SUV,Ssangyong,Tivoli,85_7,85_7$$4,reject,Rear,rear_three_quarter_with_door_open,False,pending
+908,SUV,Ssangyong,Tivoli,85_7,85_7$$87,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+909,SUV,Ssangyong,Tivoli XLV,85_8,85_8$$46,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+910,SUV,Ssangyong,Tivoli XLV,85_8,85_8$$73,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+911,SUV,Ssangyong,Tivoli XLV,85_8,85_8$$78,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+912,SUV,Ssangyong,Tivoli XLV,85_8,85_8$$93,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+913,SUV,Subaru,Forester,86_2,86_2$$116,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+914,SUV,Subaru,Forester,86_2,86_2$$17,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+915,SUV,Subaru,Forester,86_2,86_2$$201,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+916,SUV,Subaru,Forester,86_2,86_2$$34,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+917,SUV,Subaru,Tribeca,86_9,86_9$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+918,SUV,Subaru,Tribeca,86_9,86_9$$3,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+919,SUV,Subaru,Tribeca,86_9,86_9$$5,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+920,SUV,Subaru,XV,86_11,86_11$$109,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+921,SUV,Subaru,XV,86_11,86_11$$203,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+922,SUV,Subaru,XV,86_11,86_11$$212,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+923,SUV,Suzuki,Grand Vitara,87_4,87_4$$104,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+924,SUV,Suzuki,Grand Vitara,87_4,87_4$$107,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+925,SUV,Suzuki,Grand Vitara,87_4,87_4$$118,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+926,SUV,Suzuki,Grand Vitara,87_4,87_4$$219,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+927,SUV,Suzuki,Jimny,87_6,87_6$$36,reject,Side,vehicle_fragment_only,False,pending
+928,SUV,Suzuki,Jimny,87_6,87_6$$4,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+929,SUV,Suzuki,SX4 S-Cross,87_12,87_12$$11,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+930,SUV,Suzuki,SX4 S-Cross,87_12,87_12$$117,reject,"Front,Rear",open_engine_bay_and_open_trunk,False,pending
+931,SUV,Suzuki,SX4 S-Cross,87_12,87_12$$164,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+932,SUV,Suzuki,SX4 S-Cross,87_12,87_12$$172,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+933,SUV,Suzuki,Vitara,87_13,87_13$$234,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+934,SUV,Suzuki,Vitara,87_13,87_13$$241,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+935,SUV,Suzuki,Vitara,87_13,87_13$$431,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+936,SUV,Suzuki,Vitara,87_13,87_13$$63,uncertain,Rear,rear_three_quarter_view,False,pending
+937,SUV,Tesla,Model X,90_2,90_2$$14,reject,Rear,open_trunk,False,pending
+938,SUV,Tesla,Model X,90_2,90_2$$4,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+939,SUV,Tesla,Model X,90_2,90_2$$8,reject,Side,door_open_and_oblique_view,False,pending
+940,SUV,Toyota,C-HR,92_8,92_8$$129,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+941,SUV,Toyota,C-HR,92_8,92_8$$145,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+942,SUV,Toyota,C-HR,92_8,92_8$$230,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+943,SUV,Toyota,C-HR,92_8,92_8$$59,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+944,SUV,Toyota,Hilux,92_19,92_19$$274,reject,all,pickup_in_SUV_class,False,pending
+945,SUV,Toyota,Hilux,92_19,92_19$$296,reject,all,pickup_in_SUV_class_and_fragmented_rear,False,pending
+946,SUV,Toyota,Hilux,92_19,92_19$$830,reject,all,pickup_in_SUV_class_and_wrong_rear_photo,False,pending
+947,SUV,Toyota,Land Cruiser,92_21,92_21$$191,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+948,SUV,Toyota,Land Cruiser,92_21,92_21$$251,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+949,SUV,Toyota,Land Cruiser,92_21,92_21$$255,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+950,SUV,Toyota,Land Cruiser,92_21,92_21$$332,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+951,SUV,Toyota,Land Cruiser Amazon,92_22,92_22$$2,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+952,SUV,Toyota,Land Cruiser Amazon,92_22,92_22$$4,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+953,SUV,Toyota,Land Cruiser Amazon,92_22,92_22$$5,reject,Side,vehicle_fragment_only,False,pending
+954,SUV,Toyota,RAV4,92_34,92_34$$109,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+955,SUV,Toyota,RAV4,92_34,92_34$$336,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+956,SUV,Toyota,RAV4,92_34,92_34$$412,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+957,SUV,Vauxhall,Antara,94_4,94_4$$105,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+958,SUV,Vauxhall,Antara,94_4,94_4$$141,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+959,SUV,Vauxhall,Antara,94_4,94_4$$249,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+960,SUV,Vauxhall,Antara,94_4,94_4$$310,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+961,SUV,Vauxhall,Crossland X,94_10,94_10$$117,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+962,SUV,Vauxhall,Crossland X,94_10,94_10$$141,reject,Rear,open_trunk,False,pending
+963,SUV,Vauxhall,Crossland X,94_10,94_10$$156,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+964,SUV,Vauxhall,Crossland X,94_10,94_10$$18,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+965,SUV,Vauxhall,Grandland X,94_12,94_12$$15,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+966,SUV,Vauxhall,Grandland X,94_12,94_12$$57,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+967,SUV,Vauxhall,Grandland X,94_12,94_12$$67,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+968,SUV,Vauxhall,Grandland X,94_12,94_12$$99,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+969,SUV,Vauxhall,Mokka X,94_16,94_16$$131,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+970,SUV,Vauxhall,Mokka X,94_16,94_16$$139,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+971,SUV,Vauxhall,Mokka X,94_16,94_16$$187,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+972,SUV,Vauxhall,Mokka X,94_16,94_16$$213,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+973,SUV,Volkswagen,Amarok,95_1,95_1$$172,reject,all,pickup_with_canopy_in_SUV_class,False,pending
+974,SUV,Volkswagen,Golf,95_15,95_15$$1626,reject,all,wrong_vehicles_and_wrong_views,False,pending
+975,SUV,Volkswagen,T-Roc,95_25,95_25$$174,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+976,SUV,Volkswagen,T-Roc,95_25,95_25$$54,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+977,SUV,Volkswagen,T-Roc,95_25,95_25$$76,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+978,SUV,Volkswagen,T-Roc,95_25,95_25$$78,reject,Rear,large_rear_body_segmentation_hole_confirmed_full_size,True,pending
+979,SUV,Volkswagen,Tiguan,95_26,95_26$$227,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+980,SUV,Volkswagen,Tiguan,95_26,95_26$$444,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+981,SUV,Volkswagen,Tiguan,95_26,95_26$$826,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+982,SUV,Volkswagen,Tiguan,95_26,95_26$$870,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+983,SUV,Volkswagen,Tiguan Allspace,95_27,95_27$$12,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+984,SUV,Volkswagen,Tiguan Allspace,95_27,95_27$$122,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+985,SUV,Volkswagen,Tiguan Allspace,95_27,95_27$$62,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+986,SUV,Volkswagen,Tiguan Allspace,95_27,95_27$$94,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+987,SUV,Volkswagen,Touareg,95_28,95_28$$13,reject,Side,low_coupe_vehicle_in_SUV_listing,False,pending
+988,SUV,Volkswagen,Touareg,95_28,95_28$$166,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+989,SUV,Volkswagen,Touareg,95_28,95_28$$325,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+990,SUV,Volkswagen,Touareg,95_28,95_28$$458,uncertain,Side,front_three_quarter_view,False,pending
+991,SUV,Volkswagen,Transporter,95_30,95_30$$218,reject,all,van_body_in_SUV_class_and_detached_front_bumper,False,pending
+992,SUV,Volvo,V60,96_10,96_10$$104,reject,all,estate_body_in_SUV_class,False,pending
+993,SUV,Volvo,XC60,96_16,96_16$$235,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+994,SUV,Volvo,XC60,96_16,96_16$$364,uncertain,Side,front_three_quarter_view,False,pending
+995,SUV,Volvo,XC60,96_16,96_16$$817,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+996,SUV,Volvo,XC60,96_16,96_16$$908,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+997,SUV,Volvo,XC90,96_18,96_18$$272,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+998,SUV,Volvo,XC90,96_18,96_18$$581,uncertain,Side,front_three_quarter_view,False,pending
+999,SUV,Volvo,XC90,96_18,96_18$$615,uncertain,Side,front_three_quarter_view,False,pending
+1000,SUV,Volvo,XC90,96_18,96_18$$787,uncertain,Side,front_three_quarter_view,False,pending
+1001,Pickup,Fiat,Fullback,28_14,28_14$$24,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1002,Pickup,Fiat,Fullback,28_14,28_14$$38,reject,Rear,wrong_vehicle_view_fragment_or_closeup_in_rear_slot,False,pending
+1003,Pickup,Ford,Ranger,29_30,29_30$$114,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1004,Pickup,Ford,Ranger,29_30,29_30$$136,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1005,Pickup,Ford,Ranger,29_30,29_30$$137,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1006,Pickup,Ford,Ranger,29_30,29_30$$141,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1007,Pickup,Ford,Ranger,29_30,29_30$$156,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1008,Pickup,Ford,Ranger,29_30,29_30$$16,reject,Side,open_canopy_interior_instead_of_side,False,pending
+1009,Pickup,Ford,Ranger,29_30,29_30$$166,reject,"Front,Side",wrong_vehicle_fragments_in_front_and_side_slots,False,pending
+1010,Pickup,Ford,Ranger,29_30,29_30$$169,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1011,Pickup,Ford,Ranger,29_30,29_30$$219,reject,Rear,wrong_vehicle_view_fragment_or_closeup_in_rear_slot,False,pending
+1012,Pickup,Ford,Ranger,29_30,29_30$$238,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1013,Pickup,Ford,Ranger,29_30,29_30$$251,reject,Rear,wrong_vehicle_view_fragment_or_closeup_in_rear_slot,False,pending
+1014,Pickup,Ford,Ranger,29_30,29_30$$273,uncertain,Side,front_three_quarter_view,False,pending
+1015,Pickup,Ford,Ranger,29_30,29_30$$275,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1016,Pickup,Ford,Ranger,29_30,29_30$$291,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1017,Pickup,Ford,Ranger,29_30,29_30$$302,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1018,Pickup,Ford,Ranger,29_30,29_30$$311,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1019,Pickup,Ford,Ranger,29_30,29_30$$312,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1020,Pickup,Ford,Ranger,29_30,29_30$$328,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1021,Pickup,Ford,Ranger,29_30,29_30$$339,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1022,Pickup,Ford,Ranger,29_30,29_30$$340,reject,"Front,Rear",interior_fragment_in_front_slot_and_front_photo_in_rear_slot,False,pending
+1023,Pickup,Ford,Ranger,29_30,29_30$$35,reject,"Side,Rear",interior_closeup_in_side_slot_and_front_photo_in_rear_slot,False,pending
+1024,Pickup,Ford,Ranger,29_30,29_30$$358,reject,Rear,wrong_vehicle_view_fragment_or_closeup_in_rear_slot,False,pending
+1025,Pickup,Ford,Ranger,29_30,29_30$$376,reject,all,wrong_vehicle_fragments_and_closeups,False,pending
+1026,Pickup,Ford,Ranger,29_30,29_30$$388,reject,Rear,sedan_side_profile_instead_of_pickup_rear,False,pending
+1027,Pickup,Ford,Ranger,29_30,29_30$$426,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1028,Pickup,Ford,Ranger,29_30,29_30$$447,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1029,Pickup,Ford,Ranger,29_30,29_30$$471,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1030,Pickup,Ford,Ranger,29_30,29_30$$490,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1031,Pickup,Ford,Ranger,29_30,29_30$$600,reject,Rear,wrong_vehicle_view_fragment_or_closeup_in_rear_slot,False,pending
+1032,Pickup,Ford,Ranger,29_30,29_30$$612,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1033,Pickup,Ford,Ranger,29_30,29_30$$625,uncertain,Rear,rear_three_quarter_view,False,pending
+1034,Pickup,Ford,Ranger,29_30,29_30$$632,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1035,Pickup,Ford,Ranger,29_30,29_30$$653,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1036,Pickup,Ford,Ranger,29_30,29_30$$665,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1037,Pickup,Ford,Ranger,29_30,29_30$$676,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1038,Pickup,Ford,Ranger,29_30,29_30$$681,reject,Rear,open_canopy,False,pending
+1039,Pickup,Ford,Ranger,29_30,29_30$$708,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1040,Pickup,Ford,Ranger,29_30,29_30$$71,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1041,Pickup,Ford,Ranger,29_30,29_30$$731,reject,Side,different_van_partial_view,False,pending
+1042,Pickup,Ford,Ranger,29_30,29_30$$733,reject,Rear,wrong_vehicle_view_fragment_or_closeup_in_rear_slot,False,pending
+1043,Pickup,Ford,Ranger,29_30,29_30$$741,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1044,Pickup,Ford,Ranger,29_30,29_30$$89,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1045,Pickup,Great Wall,Steed,32_1,32_1$$1,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1046,Pickup,Great Wall,Steed,32_1,32_1$$15,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1047,Pickup,Great Wall,Steed,32_1,32_1$$3,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1048,Pickup,Great Wall,Steed,32_1,32_1$$8,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1049,Pickup,Isuzu,D-Max,38_2,38_2$$115,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1050,Pickup,Isuzu,D-Max,38_2,38_2$$119,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1051,Pickup,Isuzu,D-Max,38_2,38_2$$122,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1052,Pickup,Isuzu,D-Max,38_2,38_2$$144,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1053,Pickup,Isuzu,D-Max,38_2,38_2$$165,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1054,Pickup,Isuzu,D-Max,38_2,38_2$$169,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1055,Pickup,Isuzu,D-Max,38_2,38_2$$182,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1056,Pickup,Isuzu,D-Max,38_2,38_2$$194,uncertain,Side,front_three_quarter_view,False,pending
+1057,Pickup,Isuzu,D-Max,38_2,38_2$$21,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1058,Pickup,Isuzu,D-Max,38_2,38_2$$221,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1059,Pickup,Isuzu,D-Max,38_2,38_2$$227,reject,Rear,wrong_vehicle_view_fragment_or_closeup_in_rear_slot,False,pending
+1060,Pickup,Isuzu,D-Max,38_2,38_2$$231,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1061,Pickup,Isuzu,D-Max,38_2,38_2$$235,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1062,Pickup,Isuzu,D-Max,38_2,38_2$$249,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1063,Pickup,Isuzu,D-Max,38_2,38_2$$25,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1064,Pickup,Isuzu,D-Max,38_2,38_2$$261,reject,Rear; Side,side_profile_instead_of_rear; front_three_quarter_view,False,pending
+1065,Pickup,Isuzu,D-Max,38_2,38_2$$263,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1066,Pickup,Isuzu,D-Max,38_2,38_2$$269,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1067,Pickup,Isuzu,D-Max,38_2,38_2$$289,reject,Side,open_canopy_interior_instead_of_side,False,pending
+1068,Pickup,Isuzu,D-Max,38_2,38_2$$290,uncertain,Side,front_three_quarter_view,False,pending
+1069,Pickup,Isuzu,D-Max,38_2,38_2$$292,uncertain,Side,front_three_quarter_view,False,pending
+1070,Pickup,Isuzu,D-Max,38_2,38_2$$305,uncertain,Side,front_three_quarter_view,False,pending
+1071,Pickup,Isuzu,D-Max,38_2,38_2$$319,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1072,Pickup,Isuzu,D-Max,38_2,38_2$$323,uncertain,Side,front_three_quarter_view,False,pending
+1073,Pickup,Isuzu,D-Max,38_2,38_2$$336,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1074,Pickup,Isuzu,D-Max,38_2,38_2$$345,reject,Rear,wrong_vehicle_view_fragment_or_closeup_in_rear_slot,False,pending
+1075,Pickup,Isuzu,D-Max,38_2,38_2$$355,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1076,Pickup,Isuzu,D-Max,38_2,38_2$$371,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1077,Pickup,Isuzu,D-Max,38_2,38_2$$372,reject,"Side,Rear",fragmented_side_and_rear_segmentation_damage,False,pending
+1078,Pickup,Isuzu,D-Max,38_2,38_2$$387,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1079,Pickup,Isuzu,D-Max,38_2,38_2$$39,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1080,Pickup,Isuzu,D-Max,38_2,38_2$$390,reject,Rear,wrong_vehicle_view_fragment_or_closeup_in_rear_slot,False,pending
+1081,Pickup,Isuzu,D-Max,38_2,38_2$$401,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1082,Pickup,Isuzu,D-Max,38_2,38_2$$403,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1083,Pickup,Isuzu,D-Max,38_2,38_2$$423,uncertain,Rear,rear_three_quarter_view,False,pending
+1084,Pickup,Isuzu,D-Max,38_2,38_2$$429,reject,Rear,wrong_vehicle_view_fragment_or_closeup_in_rear_slot,False,pending
+1085,Pickup,Isuzu,D-Max,38_2,38_2$$436,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1086,Pickup,Isuzu,D-Max,38_2,38_2$$468,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1087,Pickup,Isuzu,D-Max,38_2,38_2$$47,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1088,Pickup,Isuzu,D-Max,38_2,38_2$$481,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1089,Pickup,Isuzu,D-Max,38_2,38_2$$489,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1090,Pickup,Isuzu,D-Max,38_2,38_2$$5,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1091,Pickup,Isuzu,D-Max,38_2,38_2$$503,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1092,Pickup,Isuzu,D-Max,38_2,38_2$$53,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1093,Pickup,Isuzu,D-Max,38_2,38_2$$546,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1094,Pickup,Isuzu,D-Max,38_2,38_2$$553,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1095,Pickup,Isuzu,D-Max,38_2,38_2$$554,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1096,Pickup,Isuzu,D-Max,38_2,38_2$$568,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1097,Pickup,Isuzu,D-Max,38_2,38_2$$592,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1098,Pickup,Isuzu,D-Max,38_2,38_2$$611,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1099,Pickup,Isuzu,D-Max,38_2,38_2$$613,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1100,Pickup,Isuzu,D-Max,38_2,38_2$$620,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1101,Pickup,Isuzu,D-Max,38_2,38_2$$632,uncertain,Side,front_three_quarter_view,False,pending
+1102,Pickup,Isuzu,D-Max,38_2,38_2$$633,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1103,Pickup,Isuzu,D-Max,38_2,38_2$$644,reject,Side,partial_vehicle_or_fragment_in_side_slot,False,pending
+1104,Pickup,Isuzu,D-Max,38_2,38_2$$666,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1105,Pickup,Isuzu,D-Max,38_2,38_2$$671,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1106,Pickup,Isuzu,D-Max,38_2,38_2$$679,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1107,Pickup,Isuzu,D-Max,38_2,38_2$$68,uncertain,Side,front_three_quarter_view,False,pending
+1108,Pickup,Isuzu,D-Max,38_2,38_2$$684,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1109,Pickup,Isuzu,D-Max,38_2,38_2$$7,uncertain,Side,rear_three_quarter_view,False,pending
+1110,Pickup,Isuzu,D-Max,38_2,38_2$$710,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1111,Pickup,Isuzu,D-Max,38_2,38_2$$77,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1112,Pickup,Isuzu,D-Max,38_2,38_2$$8,uncertain,Side,front_three_quarter_view,False,pending
+1113,Pickup,Isuzu,D-Max,38_2,38_2$$84,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1114,Pickup,Isuzu,D-Max,38_2,38_2$$92,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1115,Pickup,Isuzu,D-Max,38_2,38_2$$98,reject,Rear,fragment_closeup_or_wrong_vehicle_in_rear_slot,False,pending
+1116,Pickup,Isuzu,Rodeo,38_3,38_3$$11,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1117,Pickup,Isuzu,Rodeo,38_3,38_3$$15,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1118,Pickup,Isuzu,Rodeo,38_3,38_3$$2,reject,Rear,fragment_closeup_or_wrong_vehicle_in_rear_slot,False,pending
+1119,Pickup,Isuzu,Rodeo,38_3,38_3$$33,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1120,Pickup,Isuzu,Rodeo,38_3,38_3$$49,reject,all,wrong_vehicle_fragments_or_wrong_views,False,pending
+1121,Pickup,Land Rover,Defender 110,47_2,47_2$$316,reject,all,wrong_vehicle_fragments_or_wrong_views,False,pending
+1122,Pickup,Mazda,BT-50,57_5,57_5$$3,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1123,Pickup,Mazda,BT-50,57_5,57_5$$6,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1124,Pickup,Mercedes-Benz,X Class,59_40,59_40$$1,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1125,Pickup,Mercedes-Benz,X Class,59_40,59_40$$10,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1126,Pickup,Mercedes-Benz,X Class,59_40,59_40$$23,reject,Rear,severe_rear_segmentation_damage,False,pending
+1127,Pickup,Mercedes-Benz,X Class,59_40,59_40$$25,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1128,Pickup,Mercedes-Benz,X Class,59_40,59_40$$40,reject,Rear,fragment_closeup_or_wrong_vehicle_in_rear_slot,False,pending
+1129,Pickup,Mercedes-Benz,X Class,59_40,59_40$$9,reject,Side,doors_open,False,pending
+1130,Pickup,Mitsubishi,L200,62_13,62_13$$1,reject,Rear,fragment_closeup_or_wrong_vehicle_in_rear_slot,False,pending
+1131,Pickup,Mitsubishi,L200,62_13,62_13$$100,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1132,Pickup,Mitsubishi,L200,62_13,62_13$$1003,reject,Side,different_hatchback_rear_in_side_slot,False,pending
+1133,Pickup,Mitsubishi,L200,62_13,62_13$$1004,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1134,Pickup,Mitsubishi,L200,62_13,62_13$$102,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1135,Pickup,Mitsubishi,L200,62_13,62_13$$105,uncertain,Side,front_three_quarter_view,False,pending
+1136,Pickup,Mitsubishi,L200,62_13,62_13$$106,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1137,Pickup,Mitsubishi,L200,62_13,62_13$$111,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1138,Pickup,Mitsubishi,L200,62_13,62_13$$129,uncertain,Side,front_three_quarter_view,False,pending
+1139,Pickup,Mitsubishi,L200,62_13,62_13$$137,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1140,Pickup,Mitsubishi,L200,62_13,62_13$$15,uncertain,Rear,rear_three_quarter_view,False,pending
+1141,Pickup,Mitsubishi,L200,62_13,62_13$$152,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1142,Pickup,Mitsubishi,L200,62_13,62_13$$156,reject,"Side,Rear",fragmented_side_and_open_canopy,False,pending
+1143,Pickup,Mitsubishi,L200,62_13,62_13$$160,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1144,Pickup,Mitsubishi,L200,62_13,62_13$$163,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1145,Pickup,Mitsubishi,L200,62_13,62_13$$17,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1146,Pickup,Mitsubishi,L200,62_13,62_13$$170,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1147,Pickup,Mitsubishi,L200,62_13,62_13$$178,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1148,Pickup,Mitsubishi,L200,62_13,62_13$$187,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1149,Pickup,Mitsubishi,L200,62_13,62_13$$20,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1150,Pickup,Mitsubishi,L200,62_13,62_13$$204,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1151,Pickup,Mitsubishi,L200,62_13,62_13$$208,uncertain,Side,front_three_quarter_view,False,pending
+1152,Pickup,Mitsubishi,L200,62_13,62_13$$215,uncertain,Side,front_three_quarter_view,False,pending
+1153,Pickup,Mitsubishi,L200,62_13,62_13$$222,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1154,Pickup,Mitsubishi,L200,62_13,62_13$$223,reject,Rear,fragment_closeup_or_wrong_vehicle_in_rear_slot,False,pending
+1155,Pickup,Mitsubishi,L200,62_13,62_13$$225,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1156,Pickup,Mitsubishi,L200,62_13,62_13$$232,uncertain,Side,front_three_quarter_view,False,pending
+1157,Pickup,Mitsubishi,L200,62_13,62_13$$245,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1158,Pickup,Mitsubishi,L200,62_13,62_13$$248,uncertain,"Side,Rear",side_and_rear_three_quarter_views,False,pending
+1159,Pickup,Mitsubishi,L200,62_13,62_13$$253,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1160,Pickup,Mitsubishi,L200,62_13,62_13$$258,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1161,Pickup,Mitsubishi,L200,62_13,62_13$$26,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1162,Pickup,Mitsubishi,L200,62_13,62_13$$269,reject,Rear,fragment_closeup_or_wrong_vehicle_in_rear_slot,False,pending
+1163,Pickup,Mitsubishi,L200,62_13,62_13$$277,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1164,Pickup,Mitsubishi,L200,62_13,62_13$$286,reject,all,wrong_vehicle_fragments_or_wrong_views,False,pending
+1165,Pickup,Mitsubishi,L200,62_13,62_13$$296,reject,Front,vehicle_fragment_only,False,pending
+1166,Pickup,Mitsubishi,L200,62_13,62_13$$304,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1167,Pickup,Mitsubishi,L200,62_13,62_13$$308,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1168,Pickup,Mitsubishi,L200,62_13,62_13$$309,uncertain,Side,front_three_quarter_view,False,pending
+1169,Pickup,Mitsubishi,L200,62_13,62_13$$313,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1170,Pickup,Mitsubishi,L200,62_13,62_13$$314,uncertain,Side,front_three_quarter_view,False,pending
+1171,Pickup,Mitsubishi,L200,62_13,62_13$$318,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1172,Pickup,Mitsubishi,L200,62_13,62_13$$320,uncertain,Side,front_three_quarter_view,False,pending
+1173,Pickup,Mitsubishi,L200,62_13,62_13$$323,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1174,Pickup,Mitsubishi,L200,62_13,62_13$$337,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1175,Pickup,Mitsubishi,L200,62_13,62_13$$345,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1176,Pickup,Mitsubishi,L200,62_13,62_13$$353,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1177,Pickup,Mitsubishi,L200,62_13,62_13$$391,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1178,Pickup,Mitsubishi,L200,62_13,62_13$$392,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1179,Pickup,Mitsubishi,L200,62_13,62_13$$393,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1180,Pickup,Mitsubishi,L200,62_13,62_13$$399,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1181,Pickup,Mitsubishi,L200,62_13,62_13$$40,uncertain,Side,front_three_quarter_view,False,pending
+1182,Pickup,Mitsubishi,L200,62_13,62_13$$417,reject,all,interior_photos_and_wrong_views,False,pending
+1183,Pickup,Mitsubishi,L200,62_13,62_13$$423,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1184,Pickup,Mitsubishi,L200,62_13,62_13$$428,reject,"Front,Rear",front_closeup_and_open_canopy,False,pending
+1185,Pickup,Mitsubishi,L200,62_13,62_13$$434,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1186,Pickup,Mitsubishi,L200,62_13,62_13$$436,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1187,Pickup,Mitsubishi,L200,62_13,62_13$$44,uncertain,Side,front_three_quarter_view,False,pending
+1188,Pickup,Mitsubishi,L200,62_13,62_13$$443,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1189,Pickup,Mitsubishi,L200,62_13,62_13$$470,reject,Rear,fragment_closeup_or_wrong_vehicle_in_rear_slot,False,pending
+1190,Pickup,Mitsubishi,L200,62_13,62_13$$476,reject,Rear,open_canopy,False,pending
+1191,Pickup,Mitsubishi,L200,62_13,62_13$$48,uncertain,Side,front_three_quarter_view,False,pending
+1192,Pickup,Mitsubishi,L200,62_13,62_13$$483,uncertain,Side,front_three_quarter_view,False,pending
+1193,Pickup,Mitsubishi,L200,62_13,62_13$$492,uncertain,"Front,Side",strong_oblique_front_and_side_views,False,pending
+1194,Pickup,Mitsubishi,L200,62_13,62_13$$505,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1195,Pickup,Mitsubishi,L200,62_13,62_13$$516,uncertain,Side,front_three_quarter_view,False,pending
+1196,Pickup,Mitsubishi,L200,62_13,62_13$$532,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1197,Pickup,Mitsubishi,L200,62_13,62_13$$535,uncertain,Side,front_three_quarter_view,False,pending
+1198,Pickup,Mitsubishi,L200,62_13,62_13$$543,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1199,Pickup,Mitsubishi,L200,62_13,62_13$$550,uncertain,Side,front_three_quarter_view,False,pending
+1200,Pickup,Mitsubishi,L200,62_13,62_13$$554,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1201,Pickup,Mitsubishi,L200,62_13,62_13$$573,uncertain,Side,front_three_quarter_view,False,pending
+1202,Pickup,Mitsubishi,L200,62_13,62_13$$581,reject,Side,wheel_closeup,False,pending
+1203,Pickup,Mitsubishi,L200,62_13,62_13$$582,reject,Rear,fragment_closeup_or_wrong_vehicle_in_rear_slot,False,pending
+1204,Pickup,Mitsubishi,L200,62_13,62_13$$597,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1205,Pickup,Mitsubishi,L200,62_13,62_13$$601,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1206,Pickup,Mitsubishi,L200,62_13,62_13$$602,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1207,Pickup,Mitsubishi,L200,62_13,62_13$$61,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1208,Pickup,Mitsubishi,L200,62_13,62_13$$620,uncertain,Side,front_three_quarter_view,False,pending
+1209,Pickup,Mitsubishi,L200,62_13,62_13$$622,uncertain,Side,front_three_quarter_view,False,pending
+1210,Pickup,Mitsubishi,L200,62_13,62_13$$624,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1211,Pickup,Mitsubishi,L200,62_13,62_13$$626,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1212,Pickup,Mitsubishi,L200,62_13,62_13$$630,reject,Side,detached_body_or_bed_panel,False,pending
+1213,Pickup,Mitsubishi,L200,62_13,62_13$$651,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1214,Pickup,Mitsubishi,L200,62_13,62_13$$652,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1215,Pickup,Mitsubishi,L200,62_13,62_13$$654,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1216,Pickup,Mitsubishi,L200,62_13,62_13$$658,uncertain,Side,front_three_quarter_view,False,pending
+1217,Pickup,Mitsubishi,L200,62_13,62_13$$659,reject,"Front,Rear",front_closeup_and_fragmented_rear,False,pending
+1218,Pickup,Mitsubishi,L200,62_13,62_13$$66,uncertain,Side,front_three_quarter_view,False,pending
+1219,Pickup,Mitsubishi,L200,62_13,62_13$$665,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1220,Pickup,Mitsubishi,L200,62_13,62_13$$671,reject,Rear,fragment_closeup_or_wrong_vehicle_in_rear_slot,False,pending
+1221,Pickup,Mitsubishi,L200,62_13,62_13$$68,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1222,Pickup,Mitsubishi,L200,62_13,62_13$$686,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1223,Pickup,Mitsubishi,L200,62_13,62_13$$689,reject,Side,vehicle_color_or_generation_mismatch,False,pending
+1224,Pickup,Mitsubishi,L200,62_13,62_13$$691,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1225,Pickup,Mitsubishi,L200,62_13,62_13$$699,reject,Side,fragment_closeup_or_wrong_vehicle_in_side_slot,False,pending
+1226,Pickup,Mitsubishi,L200,62_13,62_13$$717,uncertain,Side,front_three_quarter_view,False,pending
+1227,Pickup,Mitsubishi,L200,62_13,62_13$$724,uncertain,Side,front_three_quarter_view,False,pending
+1228,Pickup,Mitsubishi,L200,62_13,62_13$$727,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1229,Pickup,Mitsubishi,L200,62_13,62_13$$731,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1230,Pickup,Mitsubishi,L200,62_13,62_13$$735,reject,Front,cargo_bed_interior_instead_of_front,False,pending
+1231,Pickup,Mitsubishi,L200,62_13,62_13$$741,reject,all,wrong_views_vehicle_fragments_or_open_cargo,False,pending
+1232,Pickup,Mitsubishi,L200,62_13,62_13$$764,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1233,Pickup,Mitsubishi,L200,62_13,62_13$$765,uncertain,Rear; Side,front_three_quarter_view; rear_three_quarter_view,False,pending
+1234,Pickup,Mitsubishi,L200,62_13,62_13$$768,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1235,Pickup,Mitsubishi,L200,62_13,62_13$$773,uncertain,Side,front_three_quarter_view,False,pending
+1236,Pickup,Mitsubishi,L200,62_13,62_13$$780,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1237,Pickup,Mitsubishi,L200,62_13,62_13$$790,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1238,Pickup,Mitsubishi,L200,62_13,62_13$$795,uncertain,all,strong_three_quarter_views,False,pending
+1239,Pickup,Mitsubishi,L200,62_13,62_13$$805,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1240,Pickup,Mitsubishi,L200,62_13,62_13$$819,uncertain,Side,front_three_quarter_view,False,pending
+1241,Pickup,Mitsubishi,L200,62_13,62_13$$823,uncertain,Side,front_three_quarter_view,False,pending
+1242,Pickup,Mitsubishi,L200,62_13,62_13$$842,uncertain,Side,front_three_quarter_view,False,pending
+1243,Pickup,Mitsubishi,L200,62_13,62_13$$843,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1244,Pickup,Mitsubishi,L200,62_13,62_13$$846,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1245,Pickup,Mitsubishi,L200,62_13,62_13$$860,uncertain,Rear,rear_three_quarter_view,False,pending
+1246,Pickup,Mitsubishi,L200,62_13,62_13$$861,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1247,Pickup,Mitsubishi,L200,62_13,62_13$$869,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1248,Pickup,Mitsubishi,L200,62_13,62_13$$872,uncertain,Side,front_three_quarter_view,False,pending
+1249,Pickup,Mitsubishi,L200,62_13,62_13$$877,uncertain,Side,front_three_quarter_view,False,pending
+1250,Pickup,Mitsubishi,L200,62_13,62_13$$890,uncertain,Side,front_three_quarter_view,False,pending
+1251,Pickup,Mitsubishi,L200,62_13,62_13$$897,uncertain,Side,front_three_quarter_view,False,pending
+1252,Pickup,Mitsubishi,L200,62_13,62_13$$9,uncertain,Side,front_three_quarter_view,False,pending
+1253,Pickup,Mitsubishi,L200,62_13,62_13$$918,reject,Front,open_cargo_rear_view_instead_of_front,False,pending
+1254,Pickup,Mitsubishi,L200,62_13,62_13$$928,uncertain,Side,front_three_quarter_view,False,pending
+1255,Pickup,Mitsubishi,L200,62_13,62_13$$929,uncertain,"Front,Side",oblique_front_and_side_views,False,pending
+1256,Pickup,Mitsubishi,L200,62_13,62_13$$952,uncertain,Side,front_three_quarter_view,False,pending
+1257,Pickup,Mitsubishi,L200,62_13,62_13$$960,uncertain,Side,front_three_quarter_view,False,pending
+1258,Pickup,Mitsubishi,L200,62_13,62_13$$985,uncertain,Side,front_three_quarter_view,False,pending
+1259,Pickup,Mitsubishi,L200,62_13,62_13$$987,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1260,Pickup,Nissan,Navara,64_20,64_20$$1,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1261,Pickup,Nissan,Navara,64_20,64_20$$10,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1262,Pickup,Nissan,Navara,64_20,64_20$$1018,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1263,Pickup,Nissan,Navara,64_20,64_20$$1022,uncertain,Side,front_three_quarter_view,False,pending
+1264,Pickup,Nissan,Navara,64_20,64_20$$1023,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1265,Pickup,Nissan,Navara,64_20,64_20$$1027,uncertain,Side,front_three_quarter_view,False,pending
+1266,Pickup,Nissan,Navara,64_20,64_20$$1030,uncertain,Side,front_three_quarter_view,False,pending
+1267,Pickup,Nissan,Navara,64_20,64_20$$1035,uncertain,Side,front_three_quarter_view,False,pending
+1268,Pickup,Nissan,Navara,64_20,64_20$$1036,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1269,Pickup,Nissan,Navara,64_20,64_20$$1057,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1270,Pickup,Nissan,Navara,64_20,64_20$$1060,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1271,Pickup,Nissan,Navara,64_20,64_20$$1061,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1272,Pickup,Nissan,Navara,64_20,64_20$$1073,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1273,Pickup,Nissan,Navara,64_20,64_20$$1089,uncertain,Side,front_three_quarter_view,False,pending
+1274,Pickup,Nissan,Navara,64_20,64_20$$1092,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1275,Pickup,Nissan,Navara,64_20,64_20$$1105,uncertain,Side,front_three_quarter_view,False,pending
+1276,Pickup,Nissan,Navara,64_20,64_20$$114,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1277,Pickup,Nissan,Navara,64_20,64_20$$125,uncertain,Side,front_three_quarter_view,False,pending
+1278,Pickup,Nissan,Navara,64_20,64_20$$128,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1279,Pickup,Nissan,Navara,64_20,64_20$$132,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1280,Pickup,Nissan,Navara,64_20,64_20$$135,reject,Side,interior_door_panel,False,pending
+1281,Pickup,Nissan,Navara,64_20,64_20$$147,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1282,Pickup,Nissan,Navara,64_20,64_20$$182,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1283,Pickup,Nissan,Navara,64_20,64_20$$201,reject,Side,rear_window_closeup_instead_of_side,False,pending
+1284,Pickup,Nissan,Navara,64_20,64_20$$204,reject,Rear,open_canopy,False,pending
+1285,Pickup,Nissan,Navara,64_20,64_20$$210,uncertain,Side,front_three_quarter_view,False,pending
+1286,Pickup,Nissan,Navara,64_20,64_20$$211,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1287,Pickup,Nissan,Navara,64_20,64_20$$212,uncertain,Side,front_three_quarter_view,False,pending
+1288,Pickup,Nissan,Navara,64_20,64_20$$213,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1289,Pickup,Nissan,Navara,64_20,64_20$$236,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1290,Pickup,Nissan,Navara,64_20,64_20$$248,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1291,Pickup,Nissan,Navara,64_20,64_20$$258,uncertain,Side,front_three_quarter_view,False,pending
+1292,Pickup,Nissan,Navara,64_20,64_20$$273,reject,Rear,severe_segmentation_damage,False,pending
+1293,Pickup,Nissan,Navara,64_20,64_20$$28,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1294,Pickup,Nissan,Navara,64_20,64_20$$29,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1295,Pickup,Nissan,Navara,64_20,64_20$$297,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1296,Pickup,Nissan,Navara,64_20,64_20$$3,uncertain,Side,front_three_quarter_view,False,pending
+1297,Pickup,Nissan,Navara,64_20,64_20$$308,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1298,Pickup,Nissan,Navara,64_20,64_20$$31,reject,Rear,open_canopy,False,pending
+1299,Pickup,Nissan,Navara,64_20,64_20$$32,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1300,Pickup,Nissan,Navara,64_20,64_20$$336,uncertain,Side,front_three_quarter_view,False,pending
+1301,Pickup,Nissan,Navara,64_20,64_20$$342,uncertain,Side,front_three_quarter_view,False,pending
+1302,Pickup,Nissan,Navara,64_20,64_20$$356,uncertain,Side,front_three_quarter_view,False,pending
+1303,Pickup,Nissan,Navara,64_20,64_20$$361,reject,Rear,open_canopy,False,pending
+1304,Pickup,Nissan,Navara,64_20,64_20$$370,reject,Side,rear_open_cargo_view_instead_of_side,False,pending
+1305,Pickup,Nissan,Navara,64_20,64_20$$382,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1306,Pickup,Nissan,Navara,64_20,64_20$$386,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1307,Pickup,Nissan,Navara,64_20,64_20$$390,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1308,Pickup,Nissan,Navara,64_20,64_20$$393,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1309,Pickup,Nissan,Navara,64_20,64_20$$4,uncertain,Side,front_three_quarter_view,False,pending
+1310,Pickup,Nissan,Navara,64_20,64_20$$40,uncertain,Side,front_three_quarter_view,False,pending
+1311,Pickup,Nissan,Navara,64_20,64_20$$404,uncertain,Side,front_three_quarter_view,False,pending
+1312,Pickup,Nissan,Navara,64_20,64_20$$419,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1313,Pickup,Nissan,Navara,64_20,64_20$$42,uncertain,Side,front_three_quarter_view,False,pending
+1314,Pickup,Nissan,Navara,64_20,64_20$$421,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1315,Pickup,Nissan,Navara,64_20,64_20$$429,uncertain,Side,front_three_quarter_view,False,pending
+1316,Pickup,Nissan,Navara,64_20,64_20$$435,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1317,Pickup,Nissan,Navara,64_20,64_20$$443,uncertain,Side,front_three_quarter_view,False,pending
+1318,Pickup,Nissan,Navara,64_20,64_20$$449,reject,Rear,front_view_instead_of_rear,False,pending
+1319,Pickup,Nissan,Navara,64_20,64_20$$457,uncertain,Side,front_three_quarter_view,False,pending
+1320,Pickup,Nissan,Navara,64_20,64_20$$469,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1321,Pickup,Nissan,Navara,64_20,64_20$$484,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1322,Pickup,Nissan,Navara,64_20,64_20$$505,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1323,Pickup,Nissan,Navara,64_20,64_20$$515,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1324,Pickup,Nissan,Navara,64_20,64_20$$517,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1325,Pickup,Nissan,Navara,64_20,64_20$$538,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1326,Pickup,Nissan,Navara,64_20,64_20$$541,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1327,Pickup,Nissan,Navara,64_20,64_20$$546,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1328,Pickup,Nissan,Navara,64_20,64_20$$564,uncertain,Side,front_three_quarter_view,False,pending
+1329,Pickup,Nissan,Navara,64_20,64_20$$568,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1330,Pickup,Nissan,Navara,64_20,64_20$$572,reject,all,wrong_views_vehicle_fragments_or_open_cargo,False,pending
+1331,Pickup,Nissan,Navara,64_20,64_20$$583,uncertain,Side,front_three_quarter_view,False,pending
+1332,Pickup,Nissan,Navara,64_20,64_20$$61,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1333,Pickup,Nissan,Navara,64_20,64_20$$611,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1334,Pickup,Nissan,Navara,64_20,64_20$$614,reject,Rear,open_canopy,False,pending
+1335,Pickup,Nissan,Navara,64_20,64_20$$62,uncertain,Side,front_three_quarter_view,False,pending
+1336,Pickup,Nissan,Navara,64_20,64_20$$633,uncertain,Side,front_three_quarter_view,False,pending
+1337,Pickup,Nissan,Navara,64_20,64_20$$637,uncertain,Side,front_three_quarter_view,False,pending
+1338,Pickup,Nissan,Navara,64_20,64_20$$641,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1339,Pickup,Nissan,Navara,64_20,64_20$$646,uncertain,Side,front_three_quarter_view,False,pending
+1340,Pickup,Nissan,Navara,64_20,64_20$$655,reject,all,wrong_views_vehicle_fragments_or_open_cargo,False,pending
+1341,Pickup,Nissan,Navara,64_20,64_20$$664,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1342,Pickup,Nissan,Navara,64_20,64_20$$694,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1343,Pickup,Nissan,Navara,64_20,64_20$$698,uncertain,Side,front_three_quarter_view,False,pending
+1344,Pickup,Nissan,Navara,64_20,64_20$$701,uncertain,Side,front_three_quarter_view,False,pending
+1345,Pickup,Nissan,Navara,64_20,64_20$$702,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1346,Pickup,Nissan,Navara,64_20,64_20$$713,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1347,Pickup,Nissan,Navara,64_20,64_20$$719,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1348,Pickup,Nissan,Navara,64_20,64_20$$720,uncertain,Side,front_three_quarter_view,False,pending
+1349,Pickup,Nissan,Navara,64_20,64_20$$732,uncertain,Side,front_three_quarter_view,False,pending
+1350,Pickup,Nissan,Navara,64_20,64_20$$759,uncertain,Side,front_three_quarter_view,False,pending
+1351,Pickup,Nissan,Navara,64_20,64_20$$770,reject,"Side,Rear",partial_side_and_open_canopy,False,pending
+1352,Pickup,Nissan,Navara,64_20,64_20$$798,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1353,Pickup,Nissan,Navara,64_20,64_20$$799,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1354,Pickup,Nissan,Navara,64_20,64_20$$811,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1355,Pickup,Nissan,Navara,64_20,64_20$$83,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1356,Pickup,Nissan,Navara,64_20,64_20$$831,uncertain,Side,front_three_quarter_view,False,pending
+1357,Pickup,Nissan,Navara,64_20,64_20$$853,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1358,Pickup,Nissan,Navara,64_20,64_20$$86,uncertain,Side,front_three_quarter_view,False,pending
+1359,Pickup,Nissan,Navara,64_20,64_20$$863,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1360,Pickup,Nissan,Navara,64_20,64_20$$873,uncertain,Side,front_three_quarter_view,False,pending
+1361,Pickup,Nissan,Navara,64_20,64_20$$877,reject,Side,rear_three_quarter_instead_of_side,False,pending
+1362,Pickup,Nissan,Navara,64_20,64_20$$884,uncertain,"Front,Side",strong_three_quarter_front_and_side_views,False,pending
+1363,Pickup,Nissan,Navara,64_20,64_20$$89,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1364,Pickup,Nissan,Navara,64_20,64_20$$890,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1365,Pickup,Nissan,Navara,64_20,64_20$$896,uncertain,Side,front_three_quarter_view,False,pending
+1366,Pickup,Nissan,Navara,64_20,64_20$$904,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1367,Pickup,Nissan,Navara,64_20,64_20$$906,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1368,Pickup,Nissan,Navara,64_20,64_20$$915,uncertain,Side,front_three_quarter_view,False,pending
+1369,Pickup,Nissan,Navara,64_20,64_20$$931,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1370,Pickup,Nissan,Navara,64_20,64_20$$937,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1371,Pickup,Nissan,Navara,64_20,64_20$$943,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1372,Pickup,Nissan,Navara,64_20,64_20$$944,reject,"Front,Side",wrong_vehicle_fragments,False,pending
+1373,Pickup,Nissan,Navara,64_20,64_20$$955,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1374,Pickup,Nissan,Navara,64_20,64_20$$957,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1375,Pickup,Nissan,Navara,64_20,64_20$$96,reject,"Side,Rear",partial_side_and_open_canopy,False,pending
+1376,Pickup,Nissan,Navara,64_20,64_20$$967,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1377,Pickup,Nissan,Navara,64_20,64_20$$969,uncertain,Side,front_three_quarter_view,False,pending
+1378,Pickup,Nissan,Navara,64_20,64_20$$974,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1379,Pickup,Nissan,Navara,64_20,64_20$$977,uncertain,Side,front_three_quarter_view,False,pending
+1380,Pickup,Nissan,Navara,64_20,64_20$$986,uncertain,Side,front_three_quarter_view,False,pending
+1381,Pickup,Nissan,Navara,64_20,64_20$$99,uncertain,Side,front_three_quarter_view,False,pending
+1382,Pickup,Nissan,Navara,64_20,64_20$$992,uncertain,Side,front_three_quarter_view,False,pending
+1383,Pickup,Ssangyong,Musso,85_4,85_4$$10,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1384,Pickup,Ssangyong,Musso,85_4,85_4$$12,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1385,Pickup,Ssangyong,Musso,85_4,85_4$$15,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1386,Pickup,Ssangyong,Musso,85_4,85_4$$23,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1387,Pickup,Ssangyong,Musso,85_4,85_4$$9,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1388,Pickup,Toyota,Hilux,92_19,92_19$$101,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1389,Pickup,Toyota,Hilux,92_19,92_19$$105,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1390,Pickup,Toyota,Hilux,92_19,92_19$$107,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1391,Pickup,Toyota,Hilux,92_19,92_19$$122,uncertain,Side,front_three_quarter_view,False,pending
+1392,Pickup,Toyota,Hilux,92_19,92_19$$127,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1393,Pickup,Toyota,Hilux,92_19,92_19$$149,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1394,Pickup,Toyota,Hilux,92_19,92_19$$150,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1395,Pickup,Toyota,Hilux,92_19,92_19$$158,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1396,Pickup,Toyota,Hilux,92_19,92_19$$164,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1397,Pickup,Toyota,Hilux,92_19,92_19$$170,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1398,Pickup,Toyota,Hilux,92_19,92_19$$180,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1399,Pickup,Toyota,Hilux,92_19,92_19$$194,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1400,Pickup,Toyota,Hilux,92_19,92_19$$20,reject,Rear,open_canopy,False,pending
+1401,Pickup,Toyota,Hilux,92_19,92_19$$212,uncertain,Side,front_three_quarter_view,False,pending
+1402,Pickup,Toyota,Hilux,92_19,92_19$$216,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1403,Pickup,Toyota,Hilux,92_19,92_19$$233,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1404,Pickup,Toyota,Hilux,92_19,92_19$$240,reject,Front,vehicle_fragment_only,False,pending
+1405,Pickup,Toyota,Hilux,92_19,92_19$$25,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1406,Pickup,Toyota,Hilux,92_19,92_19$$26,reject,all,interior_closeups_fragments_or_wrong_views,False,pending
+1407,Pickup,Toyota,Hilux,92_19,92_19$$287,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1408,Pickup,Toyota,Hilux,92_19,92_19$$3,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1409,Pickup,Toyota,Hilux,92_19,92_19$$310,uncertain,Side,front_three_quarter_view,False,pending
+1410,Pickup,Toyota,Hilux,92_19,92_19$$321,reject,all,interior_closeups_fragments_or_wrong_views,False,pending
+1411,Pickup,Toyota,Hilux,92_19,92_19$$329,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1412,Pickup,Toyota,Hilux,92_19,92_19$$352,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1413,Pickup,Toyota,Hilux,92_19,92_19$$36,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1414,Pickup,Toyota,Hilux,92_19,92_19$$394,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1415,Pickup,Toyota,Hilux,92_19,92_19$$408,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1416,Pickup,Toyota,Hilux,92_19,92_19$$411,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1417,Pickup,Toyota,Hilux,92_19,92_19$$421,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1418,Pickup,Toyota,Hilux,92_19,92_19$$425,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1419,Pickup,Toyota,Hilux,92_19,92_19$$437,uncertain,Side,front_three_quarter_view,False,pending
+1420,Pickup,Toyota,Hilux,92_19,92_19$$470,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1421,Pickup,Toyota,Hilux,92_19,92_19$$473,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1422,Pickup,Toyota,Hilux,92_19,92_19$$486,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1423,Pickup,Toyota,Hilux,92_19,92_19$$491,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1424,Pickup,Toyota,Hilux,92_19,92_19$$506,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1425,Pickup,Toyota,Hilux,92_19,92_19$$51,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1426,Pickup,Toyota,Hilux,92_19,92_19$$516,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1427,Pickup,Toyota,Hilux,92_19,92_19$$521,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1428,Pickup,Toyota,Hilux,92_19,92_19$$543,reject,all,interior_closeups_fragments_or_wrong_views,False,pending
+1429,Pickup,Toyota,Hilux,92_19,92_19$$549,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1430,Pickup,Toyota,Hilux,92_19,92_19$$552,uncertain,Side,front_three_quarter_view,False,pending
+1431,Pickup,Toyota,Hilux,92_19,92_19$$554,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1432,Pickup,Toyota,Hilux,92_19,92_19$$558,reject,all,interior_closeups_fragments_or_wrong_views,False,pending
+1433,Pickup,Toyota,Hilux,92_19,92_19$$568,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1434,Pickup,Toyota,Hilux,92_19,92_19$$571,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1435,Pickup,Toyota,Hilux,92_19,92_19$$576,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1436,Pickup,Toyota,Hilux,92_19,92_19$$577,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1437,Pickup,Toyota,Hilux,92_19,92_19$$59,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1438,Pickup,Toyota,Hilux,92_19,92_19$$596,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1439,Pickup,Toyota,Hilux,92_19,92_19$$612,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1440,Pickup,Toyota,Hilux,92_19,92_19$$614,uncertain,Side,front_three_quarter_view,False,pending
+1441,Pickup,Toyota,Hilux,92_19,92_19$$619,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1442,Pickup,Toyota,Hilux,92_19,92_19$$622,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1443,Pickup,Toyota,Hilux,92_19,92_19$$626,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1444,Pickup,Toyota,Hilux,92_19,92_19$$642,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1445,Pickup,Toyota,Hilux,92_19,92_19$$655,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1446,Pickup,Toyota,Hilux,92_19,92_19$$659,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1447,Pickup,Toyota,Hilux,92_19,92_19$$665,uncertain,Side,front_three_quarter_view,False,pending
+1448,Pickup,Toyota,Hilux,92_19,92_19$$670,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1449,Pickup,Toyota,Hilux,92_19,92_19$$678,reject,all,open_hood_and_fragmented_side_and_rear,False,pending
+1450,Pickup,Toyota,Hilux,92_19,92_19$$686,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1451,Pickup,Toyota,Hilux,92_19,92_19$$693,uncertain,Side,front_three_quarter_view,False,pending
+1452,Pickup,Toyota,Hilux,92_19,92_19$$694,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1453,Pickup,Toyota,Hilux,92_19,92_19$$704,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1454,Pickup,Toyota,Hilux,92_19,92_19$$705,reject,Rear,open_canopy,False,pending
+1455,Pickup,Toyota,Hilux,92_19,92_19$$708,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1456,Pickup,Toyota,Hilux,92_19,92_19$$71,reject,"Front,Rear",interior_photos_instead_of_exterior_views,False,pending
+1457,Pickup,Toyota,Hilux,92_19,92_19$$720,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1458,Pickup,Toyota,Hilux,92_19,92_19$$721,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1459,Pickup,Toyota,Hilux,92_19,92_19$$726,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1460,Pickup,Toyota,Hilux,92_19,92_19$$737,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1461,Pickup,Toyota,Hilux,92_19,92_19$$739,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1462,Pickup,Toyota,Hilux,92_19,92_19$$741,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1463,Pickup,Toyota,Hilux,92_19,92_19$$755,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1464,Pickup,Toyota,Hilux,92_19,92_19$$757,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1465,Pickup,Toyota,Hilux,92_19,92_19$$794,uncertain,Side,front_three_quarter_view,False,pending
+1466,Pickup,Toyota,Hilux,92_19,92_19$$807,uncertain,"Front,Rear",front_and_rear_three_quarter_views,False,pending
+1467,Pickup,Toyota,Hilux,92_19,92_19$$808,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1468,Pickup,Toyota,Hilux,92_19,92_19$$809,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1469,Pickup,Toyota,Hilux,92_19,92_19$$813,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1470,Pickup,Toyota,Hilux,92_19,92_19$$817,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1471,Pickup,Toyota,Hilux,92_19,92_19$$82,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1472,Pickup,Toyota,Hilux,92_19,92_19$$838,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1473,Pickup,Toyota,Hilux,92_19,92_19$$842,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1474,Pickup,Toyota,Hilux,92_19,92_19$$859,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1475,Pickup,Toyota,Hilux,92_19,92_19$$866,reject,Rear,fragment_closeup_or_wrong_vehicle_view_in_rear_slot,False,pending
+1476,Pickup,Toyota,Hilux,92_19,92_19$$874,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1477,Pickup,Toyota,Hilux,92_19,92_19$$883,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1478,Pickup,Toyota,Hilux,92_19,92_19$$97,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1479,Pickup,Volkswagen,Amarok,95_1,95_1$$101,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1480,Pickup,Volkswagen,Amarok,95_1,95_1$$111,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1481,Pickup,Volkswagen,Amarok,95_1,95_1$$120,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1482,Pickup,Volkswagen,Amarok,95_1,95_1$$125,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1483,Pickup,Volkswagen,Amarok,95_1,95_1$$153,uncertain,Side,front_three_quarter_view,False,pending
+1484,Pickup,Volkswagen,Amarok,95_1,95_1$$158,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1485,Pickup,Volkswagen,Amarok,95_1,95_1$$162,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1486,Pickup,Volkswagen,Amarok,95_1,95_1$$18,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1487,Pickup,Volkswagen,Amarok,95_1,95_1$$182,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1488,Pickup,Volkswagen,Amarok,95_1,95_1$$19,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1489,Pickup,Volkswagen,Amarok,95_1,95_1$$191,reject,"Front,Side",front_closeup_and_cropped_side,False,pending
+1490,Pickup,Volkswagen,Amarok,95_1,95_1$$224,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1491,Pickup,Volkswagen,Amarok,95_1,95_1$$228,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
+1492,Pickup,Volkswagen,Amarok,95_1,95_1$$25,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1493,Pickup,Volkswagen,Amarok,95_1,95_1$$26,uncertain,Side,front_three_quarter_view,False,pending
+1494,Pickup,Volkswagen,Amarok,95_1,95_1$$272,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1495,Pickup,Volkswagen,Amarok,95_1,95_1$$274,reject,Rear,open_canopy,False,pending
+1496,Pickup,Volkswagen,Amarok,95_1,95_1$$278,provisional_keep,,No obvious issue observed in contact-sheet screening,False,pending
+1497,Pickup,Volkswagen,Amarok,95_1,95_1$$290,reject,"Side,Rear",fragmented_or_incorrect_side_and_rear_images,False,pending
+1498,Pickup,Volkswagen,Amarok,95_1,95_1$$297,uncertain,Side,front_three_quarter_view,False,pending
+1499,Pickup,Volkswagen,Amarok,95_1,95_1$$86,uncertain,Rear; Side,front_three_quarter_view; possible_open_canopy,False,pending
+1500,Pickup,Volkswagen,Amarok,95_1,95_1$$91,reject,Side,fragment_partial_or_wrong_photo_in_side_slot,False,pending
