@@ -4,6 +4,8 @@
 **Team:** The Pink Panthers  
 **Members:** Shawn Chen and Zichen Luo
 **Group Leader:** Shawn Chen
+**Professor:** Peter Alonzi  
+**Teaching Assistant:** Naman Patel  
 
 ## Project Overview
 
