@@ -1,0 +1,14 @@
+{
+  "seed": 4002,
+  "max_listings_per_model": 10,
+  "alternatives_per_view": 3,
+  "ad_file": "upload/Ad_table (extra).csv",
+  "image_file": "tmp/source_metadata/Image_table.csv",
+  "selected_listings": 2109,
+  "candidate_listings": 39267,
+  "audit_file": "DS4002-Project-3/DATA/initial/viewpoint_audit_sample.csv",
+  "source_sha256": {
+    "Ad_table (extra).csv": "0211abfe049d247bf42ad09bff968de6c81e2c810d6b026e4385ff5cbbbac476",
+    "Image_table.csv": "393cbd0d879ab5d800c51048223923b3ef02fb045ff65e285af959a617588421"
+  }
+}
