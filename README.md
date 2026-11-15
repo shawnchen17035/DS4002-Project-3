@@ -1,5 +1,10 @@
 # Vehicle Body-Type Classification Across Viewing Angles
 
+**DS 4002 — Project 3**  
+**Team:** The Pink Panthers  
+**Members:** Shawn Chen and Zichen Luo
+**Group Leader:** Shawn Chen
+
 ## Project Overview
 
 This DS 4002 project investigates classification of sedans, SUVs, and
