@@ -1,0 +1,4 @@
+Body_type,train,validation,test
+Sedan,75,16,16
+SUV,88,19,19
+Pickup,6,2,1
