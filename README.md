@@ -150,7 +150,7 @@ are omitted from this outline.
 - `README.md` — project overview and reproduction instructions
 - `LICENSE.md` — license for original project code and documentation
 - `SCRIPTS/`
-  - `DS4002_Project_3_Data_Cleaning.ipynb` — cleaning, image verification,
+  - `Data_Cleaning.ipynb` — cleaning, image verification,
     split generation, and dataset export
 - `DATA/`
   - `README.md` — dataset documentation, download instructions, and
