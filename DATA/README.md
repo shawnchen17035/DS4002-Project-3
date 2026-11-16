@@ -1,57 +1,16 @@
-# Vehicle Body-Type Classification Across Viewing Angles
+# Data
 
-**DS 4002 — Data Science Project — Project 3**  
-**University of Virginia | Fall 2026 | Section 100010**  
-**Team:** The Pink Panthers  
-**Members:** Shawn Chen and Zichen Luo  
-**Group Leader:** Shawn Chen  
-**Professor:** Peter Alonzi  
-**Teaching Assistant:** Naman Patel  
+This folder documents the data used in Vehicle Body-Type Classification
+Across Viewing Angles (The Pink Panthers — DS 4002, Project 3).
 
-## Contents of This Repository
+## Data Summary
 
-This repository contains the data, cleaning code, and exploratory outputs
-for investigating how viewing angle affects classification of sedans,
-SUVs, and pickup trucks using DVM-CAR images.
+We use DVM-CAR vehicle images to compare classification of sedans, SUVs,
+and pickup trucks across front, side, and rear views.
 
-**Research question:** What effect does the angle of a photo have on how
-accurately a model can distinguish sedans, SUVs, and pickup trucks?
-
-**Performance goal:** Exceed the 33.3% three-class chance baseline in
-balanced accuracy for each viewpoint—front, side, and rear—on vehicle
-models excluded from training.
-
-Vehicle body-type classification supports automotive inventory management
-and online marketplaces. However, visible features change with camera
-angle. Side views reveal silhouette and cargo-bed shape, while front and
-rear views provide different cues. Reporting performance separately by
-viewpoint helps identify differences that overall accuracy could hide.
-
-Following MI2, each retained listing contributes one front, one side,
-and one rear image. This matched design compares viewpoints using the
-same listings. Splitting by vehicle model keeps related images together
-and evaluates generalization to models excluded from training.
-
-**Current status:** Data cleaning, image verification, fixed splits, and
-cleaned-data exploratory figures are complete. Model training, tuning,
-and final evaluation are pending. No classification results or claims
-of achieving the performance goal are reported yet.
-
-### Dataset and preparation
-
-The project uses DVM-CAR vehicle images and associated metadata [1].
-During data establishment, advertisement and image records were linked
-using listing identifiers. Target body types were standardized to
-Sedan, SUV, and Pickup.
-
-The MI2 audit of 90 sampled images identified incorrect viewpoints,
-incomplete vehicle images, and different vehicles within the same listing.
-These findings motivated visual review and the requirement for three
-usable exterior views of the same vehicle per retained listing.
-
-The cleaning notebook starts from a prepared candidate archive containing
-4,500 images from 1,500 listings and a separate archive of review records.
-It exports 2,580 cleaned images from 860 listings.
+The cleaned dataset contains 2,580 images from 860 listings. Each listing
+contributes one Front, one Side, and one Rear image. Images are 300 × 300
+pixels.
 
 | Split | Listings | Images | Distinct vehicle models |
 | --- | ---: | ---: | ---: |
@@ -60,395 +19,237 @@ It exports 2,580 cleaned images from 860 listings.
 | Test | 134 | 402 | 36 |
 | Total | 860 | 2,580 | 241 |
 
-Every retained listing has one Front, one Side, and one Rear image.
-Partitions are grouped by Genmodel_ID, with no vehicle-model overlap
-between training, validation, and test sets.
+The sample contains 395 sedan, 371 SUV, and 94 pickup listings.
 
-Target proportions are 70% training, 15% validation, and 15% test.
-Actual proportions differ slightly because model groups remain intact.
+Splits are grouped by Genmodel_ID so that vehicle models do not overlap
+between partitions. Target proportions are 70% training, 15% validation,
+and 15% test; actual proportions differ slightly because groups remain intact.
 
-The cleaned sample contains 395 sedan, 371 SUV, and 94 pickup listings.
-The exploratory figures document this imbalance and the limited
-vehicle-model diversity of the pickup class.
+### Accessing the data
 
-### Planned modeling and evaluation
+Download the named attachments from the
+[dataset release](https://github.com/shawnchen17035/DS4002-Project-3/releases/tag/data-v1.0).
 
-Following MI1 and MI2, we plan to fine-tune an ImageNet-pretrained
-ResNet-18 with a three-class output layer [2]. One classifier will be
-trained using all three viewpoints.
-
-The planned workflow is to:
-
-- Resize images to 224 × 224 pixels and normalize with ImageNet statistics.
-- Apply label-preserving augmentation to training images only.
-- Use class-weighted cross-entropy to address body-type imbalance.
-- Select settings using the fixed validation partition, with early
-  stopping based on validation macro F1.
-- Reserve the test partition for final evaluation after model selection.
-- Compare viewpoints on the same held-out listings.
-
-Balanced accuracy is the primary metric because it gives equal weight
-to recall for Sedan, SUV, and Pickup. Supporting measures will include
-macro precision, macro F1, per-class recall, and normalized confusion
-matrices for each viewpoint. Viewpoint differences will be reported
-in percentage points.
-
-These methods remain planned. Final settings, dependencies, execution
-instructions, and results will be documented with the modeling code.
-
-### Responsibilities
-
-| Member | Responsibility |
+| Archive | Purpose |
 | --- | --- |
-| Shawn Chen | Data preparation, visual review, cleaning, model-group splits, exploration, and data documentation |
-| Zichen Luo | Model development, validation, viewpoint-specific evaluation, and interpretation |
+| DVM_Cleaned_Data.zip | Final cleaned images, manifests, and fixed splits |
+| DVM_Project3_Review_20261114_201843_029683.zip | Candidate images and selection manifest used as cleaning inputs |
+| DVM_Review_Records.zip | Recorded review decisions used as a cleaning input |
 
-## Section 1: Software and Platform
+To use the cleaned dataset, extract DVM_Cleaned_Data.zip and keep Photos/
+alongside the extracted CSV and JSON files. Each Extracted_path is relative
+to this extracted folder.
 
-### Software and platform
+Download the named attachments under Assets, not the automatically generated
+Source code archives. Cloning the repository does not download the image
+archives.
 
-The notebooks use Python 3 in Google Colab on a Linux runtime.
-
-Both notebooks use interactive Colab uploads and downloads. The cleaning
-notebook also uses /content paths. Local execution requires adapting
-these functions and paths.
-
-### Packages
-
-| Package | Purpose | Version record |
-| --- | --- | --- |
-| pandas | Read, organize, summarize, and export data | Cleaning: 2.2.3; exploration version recorded separately |
-| NumPy | Generate and assess model-group split allocations | Cleaning: 2.4.6 |
-| Pillow | Decode images, verify dimensions, and inspect RGB pixels | Not recorded by the cleaning notebook |
-| matplotlib | Generate the two exploratory figures | Recorded in exploration_package_versions.txt |
-
-Cleaning versions are recorded in DATA/split_config.json.
-Exploration versions are recorded in
-OUTPUT/exploration_package_versions.txt.
-
-The cleaning notebook also uses google.colab.files and standard-library
-modules pathlib, zipfile, hashlib, io, unicodedata, re, and json.
-
-The exploration notebook also uses google.colab.files and standard-library
-modules pathlib, io, shutil, and zipfile.
-
-If needed, install the cleaning dependencies in a separate setup cell:
-
-```python
-%pip install pandas==2.2.3 numpy==2.4.6 Pillow
-```
-
-For exploration:
-
-```python
-%pip install pandas matplotlib
-```
-
-Use the recorded versions when reproducing the saved outputs.
-Restart the runtime if prompted after installation. Python and Pillow
-versions were not recorded by the cleaning notebook.
-
-Model-training dependencies and hardware requirements will be added
-with the modeling notebook.
-
-## Section 2: Map of Documentation
-
-Placeholder .gitkeep files are omitted from this outline.
-
-- README.md — project overview and reproduction instructions
-- LICENSE.md — license for original project code and documentation
-- SCRIPTS/
-  - DS4002_Project_3_Data_Cleaning.ipynb
-  - DS4002_Project_3_Data_Exploration.ipynb
-- DATA/
-  - README.md
-  - DATA_LICENSE.txt
-  - clean_manifest.csv
-  - listing_review.csv
-  - manifest_with_splits.csv
-  - model_split_assignments.csv
-  - train_manifest.csv
-  - validation_manifest.csv
-  - test_manifest.csv
-  - split_config.json
-  - split_summary.csv
-- OUTPUT/
-  - fig_01_cleaned_listings_by_body_type.png
-  - fig_02_vehicle_models_by_split.png
-  - cleaned_listings_by_body_type.csv
-  - vehicle_models_by_body_type_and_split.csv
-  - exploration_package_versions.txt
-- REFERENCES/
-  - README.md
-
-### Scripts
-
-| Notebook | Role |
-| --- | --- |
-| DS4002_Project_3_Data_Cleaning.ipynb | Applies review decisions, verifies images, creates model-group splits, and exports the cleaned dataset |
-| DS4002_Project_3_Data_Exploration.ipynb | Reads split_summary.csv and generates two figures and supporting tables |
-
-Run cleaning before exploration when rebuilding the dataset.
-Exploration can also run independently using the committed split_summary.csv.
-
-### Data files
+### Files in this folder
 
 | File | Contents |
 | --- | --- |
 | clean_manifest.csv | Cleaned image records before split assignment |
 | listing_review.csv | Recorded listing review decisions |
 | manifest_with_splits.csv | Cleaned image records with split assignments |
-| model_split_assignments.csv | Model-level split assignments |
+| model_split_assignments.csv | Vehicle-model split assignments |
 | train_manifest.csv | Training image records |
 | validation_manifest.csv | Validation image records |
 | test_manifest.csv | Test image records |
 | split_config.json | Split parameters and recorded package versions |
 | split_summary.csv | Counts by split and body type |
-| DATA_LICENSE.txt | Dataset attribution, license, and processing note |
+| DATA_LICENSE.txt | Dataset attribution, licensing, and processing information |
 
-See [DATA/README.md](DATA/README.md) for provenance, the data dictionary,
-ethical considerations, and explanatory plots.
+## Provenance
 
-### Exploratory outputs
+DVM-CAR was created by Jingmin Huang, Bowei Chen, Lan Luo, Shigang Yue,
+and Iadh Ounis. It contains vehicle photographs and associated information
+collected from online sources, including UK used-car advertisements [1].
 
-| File | Contents |
+We accessed the dataset through its project website. During data
+establishment, Ad_table (extra).csv supplied listing identifiers,
+vehicle-model identifiers, and body-type labels. Image_table.csv supplied
+image records and predicted viewpoints. Listing identifiers connected
+the records.
+
+Source images were processed through background removal and resizing.
+Viewpoint labels are predictions rather than measured camera angles.
+Body-type labels and vehicle identity within a listing can also contain errors.
+
+Our MI2 audit of 90 sampled photographs identified incorrect viewpoints,
+incomplete vehicles, and different vehicles within the same listing.
+These findings motivated visual review and the requirement for three
+usable views of the same vehicle per retained listing.
+
+The cleaning notebook starts from a prepared candidate archive containing
+4,500 images from 1,500 listings and a separate archive of review decisions.
+It applies those decisions, checks retained images, and exports the cleaned
+dataset and model-level splits.
+
+## License
+
+The dataset is distributed under Creative Commons
+Attribution-NonCommercial 4.0 International [3].
+
+See [DATA_LICENSE.txt](DATA_LICENSE.txt) for attribution and licensing
+information. Project processing includes filtering, sampling, duplicate
+exclusion, file renaming, and split assignment.
+
+The repository's MIT license covers original project code and
+documentation; it does not replace the dataset's license.
+
+Release archives retain the original candidate-stage processing note.
+The repository copy of DATA_LICENSE.txt clarifies the completed cleaning
+checks without changing the license.
+
+## Ethical Statement
+
+The photographs originate from UK vehicle listings. Findings may not
+generalize to other countries, vehicle populations, or photographs taken
+in traffic, parking lots, or different lighting conditions.
+
+We use the images for vehicle classification and do not use license plates
+or other identifying details to identify owners.
+
+The sample is imbalanced across body types. Balanced accuracy and per-class
+recall will help prevent the larger sedan and SUV classes from dominating
+the interpretation of performance.
+
+Pickup model diversity is particularly limited. The test partition contains
+20 pickup listings and 60 pickup images but only one pickup vehicle model.
+Results must acknowledge this limitation.
+
+Human review reduces labeling and identity errors but cannot guarantee
+their complete removal. Review records and source identifiers are retained
+to make filtering decisions traceable.
+
+## Data Dictionary
+
+The image manifests contain one row per image.
+
+| Column | Description and uncertainty |
 | --- | --- |
-| fig_01_cleaned_listings_by_body_type.png | Counts of cleaned listings for each body type |
-| fig_02_vehicle_models_by_split.png | Distinct model counts within each body type and split |
-| cleaned_listings_by_body_type.csv | Counts underlying Figure 1 |
-| vehicle_models_by_body_type_and_split.csv | Counts underlying Figure 2 |
-| exploration_package_versions.txt | pandas and matplotlib versions used for exploration |
+| Review_ID | Identifier linking an image to its reviewed listing |
+| Body_type | Standardized category: Sedan, SUV, or Pickup; source labels can contain errors |
+| Maker | Vehicle manufacturer recorded in source metadata |
+| Genmodel | Vehicle model name recorded in source metadata |
+| Genmodel_ID | Model identifier used for splitting; a model identifier may span multiple body types |
+| Adv_ID | Advertisement/listing identifier; source listings can contain inconsistent vehicle images |
+| View | Front, Side, or Rear; derived from viewpoint metadata and assessed during review |
+| Image_ID | Original image identifier |
+| Image_name | Original image name from source metadata |
+| Predicted_viewpoint | Predicted code: 0 = front, 90 or 270 = side, 180 = rear; predictions may be incorrect |
+| Quality_check | Source quality flag; N is rejected, but a missing flag does not establish usability |
+| Source_relative_path | Image path recorded for the source dataset |
+| Extracted_path | Image path relative to the extracted cleaned dataset folder |
+| File_SHA256 | SHA-256 image-file hash used for integrity and duplicate checks |
+| Class_id | Numeric label: Sedan = 0, SUV = 1, Pickup = 2 |
+| Filename | Exported image filename |
+| Human_review_status | Review status assigned during cleaned-data export |
+| Human_reviewer | Recorded reviewer |
+| Human_review_date | Recorded review date |
+| Split | train, validation, or test; present in split-assigned manifests |
 
-These are data-exploration outputs, not classifier performance results.
-
-### Downloadable data archives
-
-Download the named attachments from the
-[dataset release](https://github.com/shawnchen17035/DS4002-Project-3/releases/tag/data-v1.0).
-
-| Attachment | Role |
-| --- | --- |
-| DVM_Project3_Review_20261114_201843_029683.zip | Cleaning input: candidate images, selection_manifest.csv, and source license information |
-| DVM_Review_Records.zip | Cleaning input: review archive containing listing_review.csv |
-| DVM_Cleaned_Data.zip | Cleaning output: verified images, manifests, fixed splits, configuration, and license information |
-
-The release attachments are separate from GitHub's automatically
-generated Source code archives. Cloning the repository does not
-download these attachments.
+The image pixels are the classifier inputs. Background removal, cropping,
+lighting, and resolution can affect visible vehicle features.
 
 ### Connections between files
 
-The workflow uses CSV manifests and JSON configuration.
-No Excel workbook is required.
-
-- Adv_ID connects image records to listing review decisions.
-- Genmodel_ID connects images to model-level split assignments.
-- Extracted_path connects each cleaned record to its image relative
-  to the extracted dataset folder.
+- Adv_ID links image records to listing_review.csv.
+- Genmodel_ID links image records to model_split_assignments.csv.
+- Extracted_path links records to their images in Photos/.
 - manifest_with_splits.csv adds split assignments to cleaned records.
 - The train, validation, and test manifests contain the respective subsets.
-- split_summary.csv provides the input for the exploration notebook.
+- split_summary.csv is the input to the exploration notebook.
 
-Class labels are Sedan = 0, SUV = 1, and Pickup = 2.
+The workflow uses CSV and JSON files. No Excel workbook is required.
 
-## Section 3: Instructions for Reproducing Results
+## Cleaning and Split Construction
 
-### A. Use the prepared dataset
+The visual-review criteria established in MI2 are complete exterior views,
+correct viewpoints, and consistent vehicle identity within each listing.
 
-To begin modeling without rerunning cleaning:
+The cleaning notebook retains listings whose recorded Review_decision is
+provisional_keep. Other decisions are excluded. It applies recorded human
+decisions rather than conducting visual review automatically.
 
-1. Open the dataset release linked above.
-2. Download DVM_Cleaned_Data.zip.
-3. Extract the entire archive.
-4. Keep Photos/ alongside the extracted CSV, JSON, and license files.
-5. Use the supplied train_manifest.csv, validation_manifest.csv,
-   and test_manifest.csv without generating new splits.
-6. Resolve each Extracted_path relative to the extracted dataset folder.
-   These paths begin with Photos/.
-
-The provided manifests preserve complete three-view listings and
-vehicle-model separation.
-
-### B. Reproduce cleaning and split generation
-
-1. Download both input archives:
-   - DVM_Project3_Review_20261114_201843_029683.zip
-   - DVM_Review_Records.zip
-2. Open SCRIPTS/DS4002_Project_3_Data_Cleaning.ipynb in Google Colab.
-3. Start a fresh runtime and ensure the cleaning dependencies are available.
-4. Execute the code cells in their displayed order.
-5. At the first upload prompt, upload only the candidate archive:
-   DVM_Project3_Review_20261114_201843_029683.zip.
-6. Run the cell that reads selection_manifest.csv and reports candidate counts.
-7. At the second upload prompt, upload only DVM_Review_Records.zip.
-8. Continue through review filtering, image verification, split generation,
-   and file export.
-9. The final cell creates and downloads DVM_Cleaned_Data.zip.
-
-Do not substitute the cleaned output ZIP for either input archive.
-
-This notebook reproduces cleaning from the prepared candidate archive
-and saved review decisions. It does not reproduce the earlier raw-metadata
-selection process or conduct human visual review automatically.
-
-### C. Check the cleaning outputs
-
-The notebook retains listings marked provisional_keep in the review
-records and checks:
+It checks:
 
 - Unique image identifiers and file hashes
-- Consistent vehicle model and body type within each listing
+- Consistent model and body type within each listing
 - Exactly one Front, one Side, and one Rear image per listing
 - Agreement between viewpoint codes and view labels
-- No retained image explicitly marked N in Quality_check
+- No retained Quality_check value explicitly marked N
 - Matching source-file SHA-256 hashes
 - Successful image decoding and 300 × 300 dimensions
 - No duplicate decoded RGB pixel hashes
-- No unexpected files in the exported image folder
 
-Missing CSV values are initially represented as empty strings.
-This is not statistical imputation. A missing quality flag does not
-establish image usability.
+Missing CSV values are represented as empty strings when read. This is not
+statistical imputation. Failed assertions stop execution rather than silently
+dropping additional records.
 
-Failed assertions stop execution rather than silently removing
-additional records.
+The split procedure uses seed 4002 and evaluates 5,000 model-group
+allocations. It selects an allocation based on class-level listing targets,
+without using model performance.
 
-### D. Check the splits
+Models, listings, and identical file hashes do not cross split boundaries.
+Use the provided assignments rather than randomly splitting images again.
 
-The split procedure groups images by Genmodel_ID, uses seed 4002,
-and evaluates 5,000 candidate allocations.
+## Explanatory Plots
 
-It selects an allocation that minimizes deviation from class-level
-listing targets without using model performance.
+These figures describe the final cleaned sample rather than the
+candidate pool examined in MI2.
 
-Models, listings, and identical file hashes do not cross partitions.
-Each split includes all three body types.
+### Figure 1. Cleaned listings by body type
 
-| Check | Expected value |
-| --- | ---: |
-| Cleaned listings | 860 |
-| Cleaned images | 2,580 |
-| Images per listing | 3 |
-| Training images | 1,785 |
-| Validation images | 393 |
-| Test images | 402 |
-| Vehicle-model overlap between splits | 0 |
+![Cleaned listings by body type](../OUTPUT/fig_01_cleaned_listings_by_body_type.png)
 
-The split-export cell should report:
-Passed: complete triplets and no model overlap.
+The cleaned sample contains 395 sedan, 371 SUV, and 94 pickup listings.
+Each listing contributes three images, so image counts have the same
+class proportions. Pickups remain substantially less represented,
+supporting balanced accuracy and per-class reporting.
 
-### E. Reproduce the explanatory figures
+Underlying counts:
+[cleaned_listings_by_body_type.csv](../OUTPUT/cleaned_listings_by_body_type.csv)
 
-1. Download DATA/split_summary.csv from the repository, or use the
-   regenerated copy from the cleaned dataset.
-2. Open SCRIPTS/DS4002_Project_3_Data_Exploration.ipynb in Google Colab.
-3. Start a fresh runtime and ensure pandas and matplotlib are available.
-4. Run the notebook's code cell.
-5. When prompted, upload the file named split_summary.csv.
-6. Confirm that both figures appear.
-7. Download Project3_Exploration_Outputs.zip and extract its five files.
+### Figure 2. Vehicle-model coverage by body type and split
 
-Expected Figure 1 listing counts:
+![Vehicle-model coverage by split](../OUTPUT/fig_02_vehicle_models_by_split.png)
 
-| Body type | Listings |
-| --- | ---: |
-| Sedan | 395 |
-| SUV | 371 |
-| Pickup | 94 |
+Training includes six pickup models, validation includes two, and testing
+includes one. Pickup test performance may therefore depend strongly on
+the particular model held out.
 
-Expected Figure 2 model counts:
+These are distinct Genmodel_ID counts within each body type and split.
+A model identifier can span multiple body types, so counts summed across
+body types may exceed the overall distinct-model total.
 
-| Body type | Training | Validation | Test |
-| --- | ---: | ---: | ---: |
-| Sedan | 75 | 16 | 16 |
-| SUV | 88 | 19 | 19 |
-| Pickup | 6 | 2 | 1 |
+Underlying counts:
+[vehicle_models_by_body_type_and_split.csv](../OUTPUT/vehicle_models_by_body_type_and_split.csv)
 
-Model counts in Figure 2 are calculated within each body type.
-A Genmodel_ID can span multiple body types, so adding counts across
-body types may exceed the distinct model total for a partition.
+### Reproducing the plots
 
-### F. Locate generated files
+1. Download split_summary.csv from this folder.
+2. Open [Data_Exploration.ipynb](../SCRIPTS/Data_Exploration.ipynb)
+   in Google Colab.
+3. Run the code cell and upload split_summary.csv when prompted.
+4. Both plots will display.
+5. Download Project3_Exploration_Outputs.zip and extract its five files.
 
-The cleaning notebook writes its dataset folder to:
+The notebook saves two PNG figures, two supporting CSV tables, and a
+package-version record in the runtime's OUTPUT/ folder. These files must
+be uploaded to GitHub manually.
 
-`/content/DVM_Cleaned_Data/`
+The notebook uses pandas and matplotlib. Recorded versions are available in
+[exploration_package_versions.txt](../OUTPUT/exploration_package_versions.txt).
 
-It writes the complete dataset archive to:
-
-`/content/DVM_Cleaned_Data.zip`
-
-The exploration notebook writes its five generated files to the runtime's
-`OUTPUT/` folder and packages them in:
-
-`Project3_Exploration_Outputs.zip`
-
-Neither notebook automatically updates GitHub.
-
-The cleaned CSV and JSON files are copied into the repository's DATA/
-folder manually. The complete data archives are attached to the release.
-Exploratory figures, supporting tables, and package versions are uploaded
-to the repository's OUTPUT/ folder manually.
-
-Download generated files before ending the Colab session because runtime
-storage is temporary.
-
-### G. Model training and final evaluation — pending
-
-The current notebooks do not train a classifier or produce classification
-metrics and confusion matrices.
-
-When modeling is added, the documentation will include:
-
-- Modeling notebook filename and execution order
-- Required packages, versions, and hardware
-- Dataset loading and image preprocessing
-- Training settings and validation-based checkpoint selection
-- Instructions for generating each result table and figure
-- Exact output locations
-- Expected final metrics and comparison with the 33.3% baseline
-
-Model outputs will be added to OUTPUT/, and the documentation map will
-be updated to list the actual files.
-
-### Limitations and interpretation
-
-- Viewpoint labels are predictions rather than measured camera angles.
-  Human review reduces, but cannot guarantee elimination of, labeling
-  and identity errors.
-- The cleaned sample contains unequal numbers of the three body types.
-  Balanced accuracy and per-class reporting are therefore important.
-- The test split contains 60 pickup images from 20 listings but only
-  one pickup vehicle model, limiting conclusions about pickup generalization.
-- Images originate from UK vehicle listings and have undergone background
-  removal and resizing. Findings may not generalize to other markets
-  or natural photographs taken in traffic or parking lots.
-- Model-group separation prevents overlap within this project's partitions;
-  it does not establish the contents of the external pretraining dataset.
-- No conclusion about the best viewpoint can be drawn until the planned
-  classification evaluation is complete.
-
-### Licensing and processing notes
-
-[LICENSE.md](LICENSE.md) covers original project code and documentation.
-It does not relicense DVM-CAR images or other third-party materials.
-
-See [DATA/DATA_LICENSE.txt](DATA/DATA_LICENSE.txt) for dataset attribution
-and licensing information.
-
-The release archives retain the original candidate-stage processing note.
-The repository copy clarifies that the cleaned dataset has undergone
-recorded human review and automated image checks. This wording update
-does not change the dataset license.
-
-### References
+## References
 
 [1] J. Huang, B. Chen, L. Luo, S. Yue, and I. Ounis, “DVM-CAR.”
 [Online]. Available: https://deepvisualmarketing.github.io/
 
-[2] K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for
-image recognition,” in Proc. IEEE Conf. Comput. Vis. Pattern Recognit.,
-2016, pp. 770–778.
+[2] J. Huang, B. Chen, L. Luo, S. Yue, and I. Ounis,
+“User manual of DVM-CAR.” [Online]. Available:
+https://deepvisualmarketing.github.io/site-assets/DVM_user_manual.pdf
 
-Additional references are maintained in
-[REFERENCES/README.md](REFERENCES/README.md).
+[3] Creative Commons, “Attribution-NonCommercial 4.0 International.”
+[Online]. Available: https://creativecommons.org/licenses/by-nc/4.0/
