@@ -152,6 +152,8 @@ are omitted from this outline.
 - `SCRIPTS/`
   - `Data_Cleaning.ipynb` — cleaning, image verification,
     split generation, and dataset export
+  - `Data_Exploration.ipynb` — generates the two cleaned-data explanatory
+     figures and their supporting tables from split_summary.csv
 - `DATA/`
   - `README.md` — dataset documentation, download instructions, and
     data dictionary
