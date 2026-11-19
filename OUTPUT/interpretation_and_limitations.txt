@@ -1,0 +1,5 @@
+INTERPRETATION
+The validation-selected ResNet-18 achieved test balanced accuracy 0.825 and macro F1 0.849, exceeding the 0.333 chance benchmark. Rear was strongest (balanced accuracy 0.977); Front was weakest (0.532). Differences are consistent with viewpoint-specific visual information: side views expose silhouette and pickup-bed structure, while front/rear views can make sedan-versus-SUV proportions less distinct.
+
+LIMITATIONS
+The test set contains only 402 images (134 matched listings), and Pickup is the minority class, so its recall has greater sampling uncertainty. Three images from each listing are correlated rather than independent, even though vehicle-model grouping prevents model leakage across splits. DVM-CAR images may contain background, lighting, and dealership-style cues, limiting generalization to other countries or image sources. Only two learning rates were compared under one augmentation and optimizer design; validation selection therefore does not establish a globally optimal configuration. Results apply to the three retained body-type labels and should not be generalized to finer vehicle categories.
