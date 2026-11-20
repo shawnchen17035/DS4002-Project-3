@@ -165,6 +165,7 @@ DS4002-Project-3/
 │   ├── test_metrics_overall_and_by_view.csv
 │   ├── test_predictions.csv
 │   ├── classification_report.txt
+│   ├── interpretation_and_limitations.txt
 │   ├── validation_training_curve.png
 │   └── confusion_matrices_by_viewpoint.png
 └── REFERENCES/
@@ -209,7 +210,7 @@ Class labels are Sedan = 0, SUV = 1, and Pickup = 2.
 
 ### B. Reproduce Model Training and Evaluation
 
-1. Open `SCRIPTS/MI3_ResNet18_Modeling.ipynb` in Google Colab, or use the [working Colab notebook](https://colab.research.google.com/drive/1dOhkDvE6N4zqR8mDPaf191esTuttbawQ).
+1. Open `SCRIPTS/MI3_ResNet18_Modeling.ipynb` in Google Colab, or use the [cleaned and verified Colab notebook](https://colab.research.google.com/drive/1S7MINSSoxKFNlKdUN-GXQsiYR8MSnbeN).
 2. Select a GPU runtime; the completed run used a T4 GPU.
 3. Upload only `DVM_Cleaned_Data.zip` when prompted.
 4. Run the MI3 setup, training, and evaluation cells in order.
@@ -218,6 +219,8 @@ Class labels are Sedan = 0, SUV = 1, and Pickup = 2.
 7. Download `MI3_results.zip` before the Colab runtime ends.
 
 The notebook writes modeling artifacts to `/content/MI3_OUTPUT/` and packages them as `/content/MI3_results.zip`. Runtime storage is temporary.
+
+The cleaned eight-cell notebook was rerun from a fresh T4 Colab runtime on November 20, 2026, using only `DVM_Cleaned_Data.zip`. It reproduced all nine expected modeling artifacts, selected learning rate 0.001, and matched the reported validation and test metrics.
 
 ### C. Reproduce Cleaning and Split Generation
 
@@ -261,6 +264,7 @@ Download archives from the [data-v1.0 release](https://github.com/shawnchen17035
 | `DVM_Project3_Review_20261114_201843_029683.zip` | Prepared candidate images and `selection_manifest.csv` |
 | `DVM_Review_Records.zip` | Recorded listing-review decisions |
 | `DVM_Cleaned_Data.zip` | Final images, manifests, fixed splits, configuration, and license information |
+| `resnet18_best.pt` | Validation-selected ResNet-18 checkpoint from the verified clean Colab run |
 
 Cloning the repository does not download release attachments.
 
